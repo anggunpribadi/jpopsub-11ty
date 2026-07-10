@@ -1,0 +1,303 @@
+1
+00:00:00,000 --> 00:00:23,000
+# What will you do today? 
+
+2
+00:00:24,000 --> 00:00:26,000
+# What are you gonna do today?
+
+3
+00:00:27,000 --> 00:00:30,000
+# I'm going to do this, you're going to fall on me #
+
+4
+00:00:30,000 --> 00:00:32,000
+# What are you gonna do?
+
+5
+00:00:32,000 --> 00:00:34,000
+# Let's get around the operation
+
+6
+00:00:35,000 --> 00:00:37,000
+Staff, how long do you think it'll take you to get here?
+
+7
+00:00:37,000 --> 00:00:38,000
+Bamboo!
+
+8
+00:00:38,000 --> 00:00:39,000
+Bamboo stomp!
+
+9
+00:00:39,000 --> 00:00:40,000
+Bamboo, green bamboo!
+
+10
+00:00:40,000 --> 00:00:42,000
+I'll bring bamboo!
+
+11
+00:00:42,000 --> 00:00:45,000
+I'll bring bamboo to the provinces!
+
+12
+00:00:45,000 --> 00:00:51,000
+What will you do today?
+
+13
+00:00:51,000 --> 00:00:53,000
+Please! Thank you!
+
+14
+00:00:53,000 --> 00:00:55,000
+I'm Daisuke Nakayama! Pleased to meet you!
+
+15
+00:00:55,000 --> 00:00:59,000
+Yes! Yes! Yes!
+
+16
+00:00:59,000 --> 00:01:01,000
+Yes! Yes! Yes! Yes!
+
+17
+00:01:01,000 --> 00:01:07,000
+♪ What are you gonna do today?
+
+18
+00:01:07,000 --> 00:01:12,000
+I thought if I didn't eat fried food on the first day.
+
+19
+00:01:12,000 --> 00:01:14,000
+Don't eat fried food.
+
+20
+00:01:15,000 --> 00:01:20,000
+# What are you gonna do today?
+
+21
+00:01:20,000 --> 00:01:23,000
+♪ What are you gonna do today?
+
+22
+00:01:23,000 --> 00:01:26,000
+♪ What are you gonna do today?
+
+23
+00:01:26,000 --> 00:01:29,000
+♪ What are you gonna do today?
+
+24
+00:01:29,000 --> 00:01:33,000
+♪ What are you gonna do today?
+
+25
+00:01:34,000 --> 00:01:38,000
+It started on the radio, something like that,
+
+26
+00:01:38,000 --> 00:01:43,000
+It started with a radio segment called Epitude, where they wanted to do something like this.
+
+27
+00:01:43,000 --> 00:01:46,000
+And then I got the blue tongue, and that's when I started.
+
+28
+00:01:46,000 --> 00:01:47,000
+You know, to get me excited or something.
+
+29
+00:01:47,000 --> 00:01:50,000
+Yes, I meditate, so I calm down.
+
+30
+00:01:50,000 --> 00:01:52,000
+I don't want to go on stage like that.
+
+31
+00:01:52,000 --> 00:01:54,000
+I said I want to move my body.
+
+32
+00:01:54,000 --> 00:01:56,000
+That's all.
+
+33
+00:01:56,000 --> 00:01:58,000
+Thank you very much. Nakayama time.
+
+34
+00:01:58,000 --> 00:02:04,000
+What are you going to do today?
+
+35
+00:02:04,000 --> 00:02:05,000
+Ready!
+
+36
+00:02:05,000 --> 00:02:10,000
+What are you going to do today?
+
+37
+00:02:10,000 --> 00:02:12,000
+Move your hair, move your feet, let's go!
+
+38
+00:02:12,000 --> 00:02:17,000
+One, two, three, four, five.
+
+39
+00:02:20,000 --> 00:02:22,000
+Is that me today? I'm all alone.
+
+40
+00:02:22,000 --> 00:02:24,000
+Oh, you're not?
+
+41
+00:02:24,000 --> 00:02:25,000
+Duck.
+
+42
+00:02:25,000 --> 00:02:26,000
+Oh, you're a sucker.
+
+43
+00:02:26,000 --> 00:02:29,000
+That's why I'm feeling so vulnerable today.
+
+44
+00:02:29,000 --> 00:02:31,000
+♪ I'll tell you what to do ♪
+
+45
+00:02:31,000 --> 00:02:33,000
+# Action uplifted
+
+46
+00:02:33,000 --> 00:02:35,000
+♪ Happy homeland
+
+47
+00:02:35,000 --> 00:02:39,000
+Okay, next win, five, three, three, seven, eight. Let's go!
+
+48
+00:02:40,000 --> 00:02:41,000
+Let's go!
+
+49
+00:02:41,000 --> 00:02:48,000
+♪ Knock-knock, knock-knock ♪
+
+50
+00:02:48,000 --> 00:02:50,000
+Everybody together.
+
+51
+00:02:52,000 --> 00:02:54,000
+♪ All together, all together
+
+52
+00:02:55,000 --> 00:02:59,000
+Let's keep it going till the end and enjoy it till the end!
+
+53
+00:03:09,000 --> 00:03:12,000
+♪ What will you do today?
+
+54
+00:03:12,000 --> 00:03:16,280
+And, oh, well, stop your heart
+
+55
+00:03:16,280 --> 00:03:19,400
+I'm free today, too.
+
+56
+00:03:19,400 --> 00:03:22,580
+But I can't connect with you again
+
+57
+00:03:22,580 --> 00:03:24,600
+We'll live together
+
+58
+00:03:24,600 --> 00:03:25,800
+Only really.
+
+59
+00:03:42,000 --> 00:03:49,000
+Don't worry about the adults
+
+60
+00:03:49,000 --> 00:03:51,000
+I'm gonna have to take this. It's too late for that.
+
+61
+00:03:51,000 --> 00:03:52,000
+I don't need any more of that motivational support energy.
+
+62
+00:03:52,000 --> 00:03:54,000
+I need to calm down.
+
+63
+00:03:54,000 --> 00:03:57,000
+Wow. Seltzer soda.
+
+64
+00:03:57,000 --> 00:03:59,000
+I'm calm. I'm calm. I'm calm.
+
+65
+00:03:59,000 --> 00:04:01,000
+I want a soda.
+
+66
+00:04:01,000 --> 00:04:02,000
+I don't know. I think I'll have a Coke.
+
+67
+00:04:02,000 --> 00:04:05,000
+But Coke is full of sugar
+
+68
+00:04:05,000 --> 00:04:06,000
+I'll have a Fanta
+
+69
+00:04:06,000 --> 00:04:08,000
+Fanta has a lot of sugar.
+
+70
+00:04:09,000 --> 00:04:12,000
+I want to drink a lot of soda.
+
+71
+00:04:13,000 --> 00:04:15,000
+The end of the last one...
+
+72
+00:04:18,000 --> 00:04:20,000
+Yes. Thank you very much.
+
+73
+00:04:22,000 --> 00:04:24,000
+Not here. Not here.
+
+74
+00:04:24,000 --> 00:04:26,000
+Was anyone here? Not here.
+
+75
+00:04:38,000 --> 00:04:40,000
+Stay tuned for the next video!
+
+76
+00:04:40,000 --> 00:04:42,000
+Please subscribe to our channel!

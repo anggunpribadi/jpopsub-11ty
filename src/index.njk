@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.homePages
+  size: 1
+  alias: page
+permalink: |-
+  {% if page.pageNum == 1 %}/index.html{% else %}/page/{{ page.pageNum }}/index.html{% endif %}
+title: Home
+---
+
+<h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-6 md:mb-8">Posts</h1>
+
+{% if page.posts and page.posts.length %}
+  {% set posts = page.posts %}
+  {% include "post-list.njk" %}
+  
+  {# Pagination navigation #}
+  {% if page.totalPages > 1 %}
+  <nav aria-label="Pagination" class="mt-12 flex justify-center items-center gap-2">
+    {% if page.pageNum > 1 %}
+      <a href="/" class="px-3 py-2 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">First</a>
+      <a href="/{% if page.pageNum > 2 %}page/{{ page.pageNum - 1 }}/{% endif %}" class="px-3 py-2 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">Previous</a>
+    {% endif %}
+    
+    <div class="flex gap-1">
+      {% for i in range(1, page.totalPages + 1) %}
+        {% if i == page.pageNum %}
+          <span class="px-3 py-2 rounded-lg bg-gray-900 text-white">{{ i }}</span>
+        {% else %}
+          <a href="/{% if i > 1 %}page/{{ i }}/{% endif %}" class="px-3 py-2 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    
+    {% if page.pageNum < page.totalPages %}
+      <a href="/page/{{ page.pageNum + 1 }}/" class="px-3 py-2 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">Next</a>
+      <a href="/page/{{ page.totalPages }}/" class="px-3 py-2 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">Last</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+{% else %}
+  <p class="text-gray-600">No posts yet.</p>
+{% endif %}

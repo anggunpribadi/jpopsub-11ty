@@ -1,0 +1,1343 @@
+1
+00:00:00,840 --> 00:00:04,480
+ Hello everyone, I'm Sakura Kawasaki from Nakasaka46!
+
+2
+00:00:04,480 --> 00:00:09,720
+Today I'm here at the Makuhari headquarters of a company that I'm going to collaborate with.
+
+3
+00:00:09,720 --> 00:00:12,300
+I'm here at the company's headquarters in Makuhari.
+
+4
+00:00:12,300 --> 00:00:17,280
+That company is Weather News!
+
+5
+00:00:17,280 --> 00:00:18,540
+Yay!
+
+6
+00:00:18,540 --> 00:00:27,580
+I'm going to try my hand at being a weathercaster!
+
+7
+00:00:27,580 --> 00:00:29,040
+Wow!
+
+8
+00:00:29,072 --> 00:00:37,232
+I was so surprised when I first heard about it that I couldn't believe it was real.
+
+9
+00:00:37,232 --> 00:00:45,652
+Today, I'll be practicing for the live broadcast, so I'm going to go right away!
+
+10
+00:00:45,652 --> 00:00:47,592
+I'm off!
+
+11
+00:00:47,592 --> 00:00:52,272
+I've seen this scenery before.
+
+12
+00:00:52,272 --> 00:00:56,112
+It's sunny and rainy here in Tokyo.
+
+13
+00:00:58,672 --> 00:01:03,802
+Thank you for watching.
+
+14
+00:01:03,802 --> 00:01:05,802
+Here we are.
+
+15
+00:01:05,802 --> 00:01:08,062
+Ms. Rinon
+
+16
+00:01:08,062 --> 00:01:09,062
+It's nice to meet you.
+
+17
+00:01:09,062 --> 00:01:12,982
+I'm Rinon Oshima, weather news anchor.
+
+18
+00:01:12,982 --> 00:01:14,482
+Pleased to meet you.
+
+19
+00:01:14,482 --> 00:01:17,002
+I am Sakura Kawasaki, from Nogizaka46.
+
+20
+00:01:17,002 --> 00:01:18,422
+It's nice to meet you.
+
+21
+00:01:18,422 --> 00:01:22,862
+I've attended a few of their live concerts.
+
+22
+00:01:22,862 --> 00:01:24,882
+I have been a fan of Nogizaka for many years.
+
+23
+00:01:24,882 --> 00:01:30,722
+Today is the first time in three years that Nogizaka will be holding the Jingu concert.
+
+24
+00:01:30,722 --> 00:01:32,282
+It's going to be 3 days from today!
+
+25
+00:01:32,282 --> 00:01:34,582
+There were quite a few people there.
+
+26
+00:01:34,582 --> 00:01:37,202
+I was so envious.
+
+27
+00:01:37,202 --> 00:01:43,342
+I was so happy to see you sharing your love for Nogizaka in the news theme.
+
+28
+00:01:43,342 --> 00:01:46,082
+It made me very happy, too.
+
+29
+00:01:46,082 --> 00:01:48,542
+Please be a good friend to me today.
+
+30
+00:01:48,542 --> 00:01:49,702
+I look forward to working with you.
+
+31
+00:01:49,702 --> 00:01:50,282
+I'm looking forward to working with you.
+
+32
+00:01:50,282 --> 00:01:52,502
+Let's start today.
+
+33
+00:01:52,502 --> 00:01:55,042
+Since you've come all this way, I'd like to introduce you to a company called Weather News.
+
+34
+00:01:55,042 --> 00:01:57,102
+I'd like to introduce you to Weather News.
+
+35
+00:01:57,102 --> 00:01:59,942
+We have booths on both sides.
+
+36
+00:01:59,942 --> 00:02:00,902
+First of all
+
+37
+00:02:00,902 --> 00:02:02,102
+From this side.
+
+38
+00:02:02,102 --> 00:02:02,722
+Yes, sir. Yes, sir.
+
+39
+00:02:02,722 --> 00:02:06,062
+I would like to introduce to you...
+
+40
+00:02:06,062 --> 00:02:09,382
+As you can see here.
+
+41
+00:02:09,382 --> 00:02:11,602
+It's called Open Weather.
+
+42
+00:02:11,602 --> 00:02:14,282
+It's a service for ships.
+
+43
+00:02:14,282 --> 00:02:18,582
+The direction of the wind is this way and the direction of the waves is that way.
+
+44
+00:02:18,582 --> 00:02:20,462
+The arrows indicate the direction of the waves.
+
+45
+00:02:20,462 --> 00:02:23,882
+So, based on that, should I take this one?
+
+46
+00:02:23,882 --> 00:02:26,702
+"You can save fuel by taking this direction.
+
+47
+00:02:26,702 --> 00:02:28,662
+It's not just electrical forecasting.
+
+48
+00:02:28,662 --> 00:02:29,382
+Yes, that's right.
+
+49
+00:02:29,382 --> 00:02:30,582
+With this kind of wind direction.
+
+50
+00:02:30,582 --> 00:02:32,082
+It's supposed to lead to the ship.
+
+51
+00:02:32,102 --> 00:02:33,102
+That's right.
+
+52
+00:02:33,102 --> 00:02:34,922
+A company called WeatherNews
+
+53
+00:02:34,922 --> 00:02:39,622
+WeatherNews was originally started as a service for ships.
+
+54
+00:02:39,622 --> 00:02:43,002
+The founder, Mr. Ishibashi, used to work for a trading company.
+
+55
+00:02:43,002 --> 00:02:45,242
+At that time, he was in charge of a ship
+
+56
+00:02:45,242 --> 00:02:50,642
+was sunk by a very strong low-pressure called "Bomb Low".
+
+57
+00:02:50,642 --> 00:02:52,422
+sank due to a very strong low-pressure called a bomb low-pressure.
+
+58
+00:02:52,422 --> 00:02:54,482
+As a result of such a maritime accident
+
+59
+00:02:54,482 --> 00:02:56,882
+Ishibashi went on to work in the weather industry
+
+60
+00:02:56,882 --> 00:02:58,722
+and founded a company called Weather News.
+
+61
+00:03:00,016 --> 00:03:01,856
+That's amazing.
+
+62
+00:03:01,856 --> 00:03:03,756
+I'd never heard of it before.
+
+63
+00:03:03,756 --> 00:03:06,056
+I learned about it when I joined the company.
+
+64
+00:03:06,056 --> 00:03:12,196
+The other one was luck. This one is a land-based service.
+
+65
+00:03:12,196 --> 00:03:15,576
+We do more services for rail and road than it says here.
+
+66
+00:03:15,576 --> 00:03:21,076
+We also provide meteorological services for disaster prevention and transportation.
+
+67
+00:03:21,076 --> 00:03:23,556
+I'm really surprised.
+
+68
+00:03:23,556 --> 00:03:26,716
+I've been watching the news for a while now.
+
+69
+00:03:26,716 --> 00:03:34,496
+The weather forecast is for everyday things.
+
+70
+00:03:34,496 --> 00:03:38,556
+But today, it's a little bit more than that.
+
+71
+00:03:38,556 --> 00:03:44,556
+I was surprised to learn about weather that is a step above everyday life.
+
+72
+00:03:44,556 --> 00:03:46,376
+The scale of it is huge, isn't it?
+
+73
+00:03:46,376 --> 00:03:47,676
+Yes, it is.
+
+74
+00:03:47,676 --> 00:03:53,196
+We provide information services to companies on land, sea, and air.
+
+75
+00:03:53,196 --> 00:03:55,416
+I'm the one who's... I was in, um.
+
+76
+00:03:55,416 --> 00:03:57,416
+When I was in high school.
+
+77
+00:03:57,416 --> 00:04:00,156
+A girl named Monet.
+
+78
+00:04:00,156 --> 00:04:03,296
+A girl who is artificial passed the weather forecaster exam.
+
+79
+00:04:03,296 --> 00:04:06,736
+And she's trying to prevent disasters by forecasting the weather.
+
+80
+00:04:06,736 --> 00:04:08,996
+I thought it was really cool.
+
+81
+00:04:08,996 --> 00:04:12,296
+I thought it was really cool.
+
+82
+00:04:12,296 --> 00:04:14,636
+I used to admire her.
+
+83
+00:04:14,636 --> 00:04:16,836
+So I admire everyone.
+
+84
+00:04:16,836 --> 00:04:20,056
+I also saw Welcome Home Monet.
+
+85
+00:04:20,056 --> 00:04:22,296
+Weather News supported the production of Welcome Back Monet.
+
+86
+00:04:22,296 --> 00:04:25,196
+Weather News supported the production of Welcome Home Monet.
+
+87
+00:04:25,196 --> 00:04:28,516
+They supported the production from a weather perspective.
+
+88
+00:04:28,516 --> 00:04:31,396
+That's why I auditioned.
+
+89
+00:04:31,396 --> 00:04:32,356
+That's right.
+
+90
+00:04:32,356 --> 00:04:34,856
+Studying to be a weather forecaster is a lot of work, isn't it?
+
+91
+00:04:34,856 --> 00:04:36,976
+It's very hard, isn't it?
+
+92
+00:04:36,976 --> 00:04:39,476
+There are many moments when I lose heart.
+
+93
+00:04:39,476 --> 00:04:41,296
+But when I'm in the field like this.
+
+94
+00:04:41,296 --> 00:04:44,556
+I often feel like I don't want to give up.
+
+95
+00:04:44,556 --> 00:04:48,396
+I'd love to have you as a study friend.
+
+96
+00:04:48,396 --> 00:04:52,196
+I'd love to have you as a study friend.
+
+97
+00:04:52,196 --> 00:04:54,996
+Next, I'd like to go to the floor where the forecast is being made.
+
+98
+00:04:54,996 --> 00:04:57,296
+I'd like to go to the floor.
+
+99
+00:04:57,296 --> 00:05:00,796
+It's finally here.
+
+100
+00:05:00,796 --> 00:05:01,716
+Please, come in.
+
+101
+00:05:01,716 --> 00:05:03,516
+Thank you very much.
+
+102
+00:05:03,516 --> 00:05:05,616
+Please join us.
+
+103
+00:05:05,616 --> 00:05:07,176
+Wow.
+
+104
+00:05:07,176 --> 00:05:09,596
+I've seen this on TV before.
+
+105
+00:05:09,596 --> 00:05:12,456
+It's a totally different atmosphere than before.
+
+106
+00:05:12,456 --> 00:05:13,396
+It's different when it's fast.
+
+107
+00:05:13,396 --> 00:05:14,596
+I see.
+
+108
+00:05:14,596 --> 00:05:16,496
+I've seen it on TV.
+
+109
+00:05:16,496 --> 00:05:19,696
+I'm sure you've seen it before.
+
+110
+00:05:19,696 --> 00:05:21,676
+That's the studio over there.
+
+111
+00:05:21,676 --> 00:05:24,676
+This is the forecast.
+
+112
+00:05:24,996 --> 00:05:25,996
+It's amazing. That's amazing.
+
+113
+00:05:25,996 --> 00:05:28,996
+There are four of them on this one desk.
+
+114
+00:05:28,996 --> 00:05:30,996
+How are they separated?
+
+115
+00:05:30,996 --> 00:05:32,716
+You can't handle them all.
+
+116
+00:05:32,716 --> 00:05:34,716
+No matter how many eyes you have.
+
+117
+00:05:34,716 --> 00:05:37,716
+So much information to take into account.
+
+118
+00:05:37,716 --> 00:05:38,916
+One forecast.
+
+119
+00:05:38,916 --> 00:05:42,916
+Sunny, cloudy or rainy.
+
+120
+00:05:42,916 --> 00:05:44,916
+It's a difficult thing to do, isn't it?
+
+121
+00:05:44,916 --> 00:05:45,916
+I'm glad to hear that.
+
+122
+00:05:45,916 --> 00:05:47,916
+I'm glad to know the other side of the story.
+
+123
+00:05:47,916 --> 00:05:49,916
+I can see a lot of the other side of the story.
+
+124
+00:05:49,916 --> 00:05:51,916
+You get to see a lot of the other side, don't you?
+
+125
+00:05:54,996 --> 00:05:55,996
+Yes.
+
+126
+00:05:55,996 --> 00:05:56,314
+Yes, sir.
+
+127
+00:05:56,314 --> 00:06:01,814
+WeatherNews also offers a personalized service.
+
+128
+00:06:01,814 --> 00:06:04,194
+We have an app called Weather News.
+
+129
+00:06:04,194 --> 00:06:11,314
+This app has been downloaded more than 42 million times, and many people are using it.
+
+130
+00:06:11,314 --> 00:06:12,534
+That's an impressive number.
+
+131
+00:06:12,534 --> 00:06:14,874
+42 million!
+
+132
+00:06:14,874 --> 00:06:16,894
+I can't even imagine.
+
+133
+00:06:16,894 --> 00:06:19,454
+I can't even imagine how many times the size of the Tokyo Dome is.
+
+134
+00:06:19,454 --> 00:06:21,194
+That's Nogizaka for you.
+
+135
+00:06:21,194 --> 00:06:23,414
+The way they counted it.
+
+136
+00:06:23,414 --> 00:06:27,994
+And the secret of its popularity is its high forecasting accuracy.
+
+137
+00:06:27,994 --> 00:06:34,814
+It's been certified as the most accurate app for the year 2022!
+
+138
+00:06:34,814 --> 00:06:36,454
+It's right!
+
+139
+00:06:36,928 --> 00:06:39,608
+It's right!
+
+140
+00:06:39,608 --> 00:06:51,248
+We get a lot of sky photos and videos from our users, and the weather report is a big feature of this app.
+
+141
+00:06:51,248 --> 00:06:56,828
+We get an average of 20,000 a day, from all over the country, and sometimes from overseas.
+
+142
+00:06:56,828 --> 00:07:05,508
+We also receive many photos of the sky, of course, but we also receive photos of peacocks walking around.
+
+143
+00:07:05,508 --> 00:07:09,528
+Are there flowers here now? Poppies?
+
+144
+00:07:09,528 --> 00:07:16,508
+Poppies. It's difficult to find the right kind of flower.
+
+145
+00:07:16,508 --> 00:07:20,648
+Maybe it's over. It's over, it's over, it's over.
+
+146
+00:07:20,666 --> 00:07:24,386
+Actually, Castor was sitting there...
+
+147
+00:07:24,386 --> 00:07:28,166
+Sakura-chan will be sitting there one day.
+
+148
+00:07:28,166 --> 00:07:30,666
+You can sit there if you like.
+
+149
+00:07:30,666 --> 00:07:33,066
+Emergency PitchingEmergency Pitching
+
+150
+00:07:33,066 --> 00:07:35,026
+Rapid
+
+151
+00:07:35,026 --> 00:07:36,886
+Sorry for interrupting earlier.
+
+152
+00:07:36,886 --> 00:07:39,406
+Please, by all means, sit here.
+
+153
+00:07:39,406 --> 00:07:41,306
+I'd like you to meet our guest.
+
+154
+00:07:41,306 --> 00:07:42,726
+Please, meet our guest.
+
+155
+00:07:42,726 --> 00:07:44,886
+Pleased to meet you.
+
+156
+00:07:44,886 --> 00:07:48,386
+Caster, stay here.
+
+157
+00:07:48,386 --> 00:07:51,926
+We have a forecaster here at the forecast center.
+
+158
+00:07:51,926 --> 00:07:54,586
+We have a forecaster here at the forecast center, which is very reassuring.
+
+159
+00:07:54,586 --> 00:08:00,066
+When I came to the studio, I also thought...
+
+160
+00:08:00,066 --> 00:08:03,206
+I'm surrounded by screens all the time.
+
+161
+00:08:03,206 --> 00:08:04,006
+Yes, that's right.
+
+162
+00:08:04,006 --> 00:08:06,626
+There are many monitors in the office.
+
+163
+00:08:06,626 --> 00:08:10,126
+I can see everything on the screen.
+
+164
+00:08:10,126 --> 00:08:12,626
+I can check the scenes I'm in.
+
+165
+00:08:12,626 --> 00:08:14,566
+But there's also information that's not on the screen.
+
+166
+00:08:14,566 --> 00:08:17,846
+I can read the information that's not on the screen.
+
+167
+00:08:17,846 --> 00:08:20,666
+It's like a lot of information is already coming in.
+
+168
+00:08:20,666 --> 00:08:24,446
+I'm going to check it and think about how to convey it to the audience.
+
+169
+00:08:24,446 --> 00:08:27,906
+I'm going to be working on that throughout the three hours.
+
+170
+00:08:27,906 --> 00:08:28,586
+Three hours
+
+171
+00:08:28,586 --> 00:08:29,446
+Three hours.
+
+172
+00:08:29,446 --> 00:08:32,726
+Live broadcast.
+
+173
+00:08:32,726 --> 00:08:33,626
+Live broadcast.
+
+174
+00:08:33,626 --> 00:08:38,086
+I'm getting nervous.
+
+175
+00:08:38,086 --> 00:08:38,626
+Do you think you'll be okay?
+
+176
+00:08:38,626 --> 00:08:43,026
+I was so nervous at first.
+
+177
+00:08:43,026 --> 00:08:47,446
+But Ms. Rinano was so friendly to me.
+
+178
+00:08:47,446 --> 00:08:47,826
+I'm really...
+
+179
+00:08:47,846 --> 00:08:52,246
+It's like this mysterious space.
+
+180
+00:08:52,246 --> 00:08:55,446
+It's a totally different atmosphere from Nogizaka.
+
+181
+00:08:55,446 --> 00:09:01,086
+It's an environment where I can focus on what I have to do in a good way.
+
+182
+00:09:01,086 --> 00:09:02,746
+I thought it was really nice.
+
+183
+00:09:02,746 --> 00:09:03,246
+I'm glad.
+
+184
+00:09:03,246 --> 00:09:06,126
+So you're starting to look forward to it, then.
+
+185
+00:09:06,126 --> 00:09:09,386
+Let's practice a lot for the upcoming live broadcast.
+
+186
+00:09:09,386 --> 00:09:10,746
+Let's practice a lot! Let's do a lot!
+
+187
+00:09:10,746 --> 00:09:12,846
+Please do.
+
+188
+00:09:12,846 --> 00:09:16,406
+This is Nogizaka.
+
+189
+00:09:16,406 --> 00:09:17,686
+Do you ever use it for other recordings?
+
+190
+00:09:17,686 --> 00:09:19,326
+Do you ever use the green back?
+
+191
+00:09:19,326 --> 00:09:22,166
+What do you think, standing there, in this picture of Sakura-chan?
+
+192
+00:09:22,166 --> 00:09:25,706
+It looks so white.
+
+193
+00:09:25,706 --> 00:09:28,526
+It looks so white.
+
+194
+00:09:28,526 --> 00:09:30,186
+It's a green background.
+
+195
+00:09:30,186 --> 00:09:33,046
+I think you can see the cloth here.
+
+196
+00:09:33,046 --> 00:09:36,166
+Now, if we put the picture together, it will look like this
+
+197
+00:09:36,166 --> 00:09:38,226
+This is the weather icon.
+
+198
+00:09:38,226 --> 00:09:40,766
+This is a weather icon.
+
+199
+00:09:40,766 --> 00:09:42,486
+I've seen it before.
+
+200
+00:09:42,486 --> 00:09:44,366
+I've been looking at it for a long time.
+
+201
+00:09:44,366 --> 00:09:45,126
+That's right.
+
+202
+00:09:45,126 --> 00:09:47,526
+Sakura, you're looking at the monitor right now.
+
+203
+00:09:47,686 --> 00:09:49,486
+Actually, the camera is disabled.
+
+204
+00:09:49,486 --> 00:09:54,646
+The camera is the one with the circle in the middle.
+
+205
+00:09:54,646 --> 00:09:58,586
+So you have to tell the weather while looking there.
+
+206
+00:09:58,586 --> 00:10:01,346
+That's an instructive technique, isn't it?
+
+207
+00:10:01,346 --> 00:10:03,866
+It's a very instructive technique, isn't it?
+
+208
+00:10:03,866 --> 00:10:06,566
+First of all, it's not so much the weather.
+
+209
+00:10:06,566 --> 00:10:10,606
+Let's get used to the movement.
+
+210
+00:10:10,606 --> 00:10:13,226
+I'll say, "Here.
+
+211
+00:10:13,226 --> 00:10:14,946
+Sakura, point to it.
+
+212
+00:10:14,946 --> 00:10:16,806
+First of all, Hokkaido.
+
+213
+00:10:17,686 --> 00:10:19,008
+See you later.
+
+214
+00:10:19,008 --> 00:10:20,448
+Ha-ha-ha.
+
+215
+00:10:20,448 --> 00:10:23,088
+Sagura-chan looked like that.
+
+216
+00:10:23,088 --> 00:10:24,928
+If you bend your elbow a little more...
+
+217
+00:10:24,928 --> 00:10:26,908
+Yes, yes, yes... we'll be together.
+
+218
+00:10:26,908 --> 00:10:28,908
+Hokkaido, right?
+
+219
+00:10:28,908 --> 00:10:32,668
+Next, let's go a little farther.
+
+220
+00:10:32,668 --> 00:10:33,408
+Fukuoka.
+
+221
+00:10:33,408 --> 00:10:36,088
+Fukuoka.
+
+222
+00:10:36,088 --> 00:10:39,148
+In that case...
+
+223
+00:10:39,152 --> 00:10:41,152
+You hide it like this? Hide them like this?
+
+224
+00:10:41,152 --> 00:10:43,152
+That's right. Keep walking.
+
+225
+00:10:43,152 --> 00:10:46,152
+That's how it starts, isn't it?
+
+226
+00:10:46,152 --> 00:10:49,152
+And the left and right are getting a little confusing, too.
+
+227
+00:10:49,152 --> 00:10:52,152
+If you want Fukuoka, bend over a little.
+
+228
+00:10:52,152 --> 00:10:54,152
+Yes, yes, yes, yes.
+
+229
+00:10:54,152 --> 00:10:56,152
+Okay.
+
+230
+00:10:56,152 --> 00:11:00,152
+Then go back and come back to the same position.
+
+231
+00:11:00,152 --> 00:11:01,152
+That's right.
+
+232
+00:11:01,152 --> 00:11:03,152
+It moves around a lot.
+
+233
+00:11:03,152 --> 00:11:06,152
+I didn't really notice it before, but now that I'm here...
+
+234
+00:11:06,152 --> 00:11:09,152
+But now that I'm here, how do I get back?
+
+235
+00:11:09,152 --> 00:11:11,152
+Oh, and how to get back?
+
+236
+00:11:11,152 --> 00:11:14,152
+That's what I was told a lot during the training.
+
+237
+00:11:14,152 --> 00:11:16,152
+That you still have your hands.
+
+238
+00:11:16,864 --> 00:11:23,364
+So I was told to just go back along the body like this.
+
+239
+00:11:23,364 --> 00:11:26,824
+And then...
+
+240
+00:11:26,824 --> 00:11:33,044
+And then come back in the same position, same posture.
+
+241
+00:11:33,044 --> 00:11:39,644
+Oh, that's great. You're learning fast. It's like karuta.
+
+242
+00:11:39,644 --> 00:11:48,704
+Tokyo is the only place with rain today, so may I ask you to tell them it's raining?
+
+243
+00:11:48,704 --> 00:11:55,044
+It's sunny and rainy here in Tokyo.
+
+244
+00:11:55,044 --> 00:11:58,724
+Kushiro is stabbing.
+
+245
+00:11:59,984 --> 00:12:06,304
+We get a lot of reports here at WeatherNews, and we get a chance to showcase them on our show.
+
+246
+00:12:06,304 --> 00:12:09,624
+Today is a practice session, so we'd like you to actually introduce the reports.
+
+247
+00:12:09,624 --> 00:12:15,684
+We have a report from Shiraishi in Ishikawa prefecture.
+
+248
+00:12:15,684 --> 00:12:25,564
+We have a reporter name Ms. Hana Sakamoto from Shiroishi, Ishikawa Prefecture.
+
+249
+00:12:25,564 --> 00:12:28,896
+If you read the comments here, you will actually be able to comment on the report.
+
+250
+00:12:28,896 --> 00:12:29,516
+Comment from Ms. Hana Sakamoto, Shiroishi, Ishikawa
+
+251
+00:12:29,516 --> 00:12:38,456
+We received this from Ms. Hana Sakamoto, Shiraishi, Ishikawa Prefecture.
+
+252
+00:12:38,456 --> 00:12:40,576
+Yes, I got it from her.
+
+253
+00:12:40,576 --> 00:12:44,316
+This is a Shiba Inu.
+
+254
+00:12:44,316 --> 00:12:50,576
+He's a Shiba Inu wearing a yellow outfit.
+
+255
+00:12:50,576 --> 00:12:51,556
+Oh, hey...
+
+256
+00:12:54,106 --> 00:12:57,826
+He's trying to look at me, but he won't.
+
+257
+00:12:57,826 --> 00:13:06,626
+It's a Shiba Inu that won't make eye contact.
+
+258
+00:13:09,488 --> 00:13:11,368
+It's all right.
+
+259
+00:13:11,368 --> 00:13:12,408
+It's all right.
+
+260
+00:13:12,408 --> 00:13:14,608
+It's hard. It's hard.
+
+261
+00:13:14,608 --> 00:13:15,688
+It's difficult, isn't it?
+
+262
+00:13:15,688 --> 00:13:17,628
+Good morning to you for receiving
+
+263
+00:13:17,628 --> 00:13:18,148
+It's a flower
+
+264
+00:13:18,148 --> 00:13:19,048
+It's a flower, isn't it?
+
+265
+00:13:19,048 --> 00:13:22,108
+It's a cold morning, drizzling with kappa constitution
+
+266
+00:13:22,108 --> 00:13:23,208
+I got a comment saying that...
+
+267
+00:13:23,208 --> 00:13:26,428
+I thought it was drizzling.
+
+268
+00:13:26,428 --> 00:13:28,088
+I wonder if it was drizzling.
+
+269
+00:13:28,088 --> 00:13:28,928
+I wonder if it's cold.
+
+270
+00:13:28,928 --> 00:13:31,648
+Shall we try again?
+
+271
+00:13:31,648 --> 00:13:34,728
+Hardly.
+
+272
+00:13:38,096 --> 00:13:44,176
+Courtesy of Hana Shiraishi Sakamoto, Ishikawa
+
+273
+00:13:44,176 --> 00:13:48,916
+Good morning, I'm Hana. Kappa-tai reporting for duty.
+
+274
+00:13:48,916 --> 00:13:54,576
+I received a comment that it's a cold morning with drizzling rain
+
+275
+00:13:54,576 --> 00:14:06,376
+Yes, it's drizzling and the dog is trying to go on, but it's starting to rain, so he wants to go home.
+
+276
+00:14:06,376 --> 00:14:14,856
+The dog was frozen and probably wanted to go home because of the drizzle.
+
+277
+00:14:14,856 --> 00:14:24,876
+I understand that, so I don't mean to speak for your feelings, but I think it's also very important to help them.
+
+278
+00:14:24,876 --> 00:14:26,616
+Thank you very much.
+
+279
+00:14:31,674 --> 00:14:36,174
+There are a lot of things on the table.
+
+280
+00:14:36,174 --> 00:14:40,334
+I'm going to talk about this for one minute, three minutes, five minutes.
+
+281
+00:14:40,334 --> 00:14:45,374
+We had a training session where we had the participants speak for one minute, three minutes, five minutes, and so on.
+
+282
+00:14:45,374 --> 00:14:47,394
+This was done before her debut.
+
+283
+00:14:47,394 --> 00:14:50,094
+Sakura-chan, I'd like you to challenge yourself now for your debut as a newscaster.
+
+284
+00:14:50,094 --> 00:14:55,954
+I would like you to challenge yourself now.
+
+285
+00:14:55,954 --> 00:14:58,174
+This is the last one.
+
+286
+00:14:58,174 --> 00:15:01,054
+I'd like to challenge you here.
+
+287
+00:15:01,054 --> 00:15:02,054
+Yes, I will.
+
+288
+00:15:04,922 --> 00:15:06,062
+Yes, ma'am.
+
+289
+00:15:06,992 --> 00:15:13,052
+This is the weather forecast that you're all familiar with.
+
+290
+00:15:13,052 --> 00:15:17,812
+I'm not sure what it's called, but...
+
+291
+00:15:17,812 --> 00:15:20,772
+I don't know what it's called, but there's a stick here.
+
+292
+00:15:20,772 --> 00:15:27,952
+When I was a little girl, I used to watch the weather forecast every day on TV.
+
+293
+00:15:27,952 --> 00:15:31,452
+I used to watch the weather forecast every day when I was a little girl, and I used to see the weatherman here.
+
+294
+00:15:31,452 --> 00:15:38,792
+This is where the weathercaster's personality comes out.
+
+295
+00:15:38,792 --> 00:15:40,512
+It's different for each person.
+
+296
+00:15:40,512 --> 00:15:42,372
+Some have a pink one here.
+
+297
+00:15:44,160 --> 00:15:48,400
+Some have a pretty pink one here.Some of them have cute little things on them.
+
+298
+00:15:48,400 --> 00:15:53,540
+I saw her pointing out the weather like this.
+
+299
+00:15:53,540 --> 00:15:57,300
+I thought it was really cool
+
+300
+00:15:57,300 --> 00:16:00,240
+I used to think she was so cool every day in front of the TV.
+
+301
+00:16:00,240 --> 00:16:05,020
+I've always admired weathercasters so much.
+
+302
+00:16:05,020 --> 00:16:07,480
+I was so excited to be able to learn the other side of the weathercaster
+
+303
+00:16:07,480 --> 00:16:09,760
+I was so excited to come here today
+
+304
+00:16:09,760 --> 00:16:10,900
+I was so excited to come here today.
+
+305
+00:16:12,704 --> 00:16:15,024
+It's been a wonderful minute and ten seconds.
+
+306
+00:16:15,024 --> 00:16:19,524
+I didn't know how to explain it.
+
+307
+00:16:19,524 --> 00:16:21,564
+I think it's a weather stick.
+
+308
+00:16:21,564 --> 00:16:26,224
+I've been using it in the show for a while now.
+
+309
+00:16:26,224 --> 00:16:32,244
+But I could tell that Sakura-chan had seen it and admired it.
+
+310
+00:16:32,244 --> 00:16:33,924
+I think it was great!
+
+311
+00:16:33,924 --> 00:16:35,664
+You're very kind.
+
+312
+00:16:35,664 --> 00:16:37,444
+Thank you very much.
+
+313
+00:16:37,444 --> 00:16:39,444
+Thank you very much.
+
+314
+00:16:42,202 --> 00:16:46,662
+So, how was your one-day experience today?
+
+315
+00:16:46,662 --> 00:16:52,842
+Since I became an idol, I wanted to experience things for the first time in my life.
+
+316
+00:16:52,842 --> 00:16:55,682
+I wanted to do a lot of things that I have never done before in my life since I became an idol.
+
+317
+00:16:55,682 --> 00:17:01,262
+But after coming here today, I realized that there are so many things I haven't done yet.
+
+318
+00:17:01,262 --> 00:17:03,422
+There are so many things that I have not done yet.
+
+319
+00:17:03,422 --> 00:17:11,922
+I think it's really cool that you can do so much as an adult.
+
+320
+00:17:11,922 --> 00:17:17,082
+I want to do my best to be like you.
+
+321
+00:17:17,082 --> 00:17:23,362
+I'm so happy that you could say that about me.
+
+322
+00:17:23,362 --> 00:17:27,982
+And it was the same when I was around Sakura-chan's age.
+
+323
+00:17:27,982 --> 00:17:33,382
+And even when I was younger than Sakura-chan, I was waving my penlight and cheering for her.
+
+324
+00:17:33,382 --> 00:17:37,802
+I was even younger than Sakura-chan when I was waving a penlight and cheering her on so hard.
+
+325
+00:17:37,802 --> 00:17:39,422
+I'm really honored.
+
+326
+00:17:39,422 --> 00:17:42,462
+I feel like this is something that really happens in life.
+
+327
+00:17:42,462 --> 00:17:43,022
+Thank you very much.
+
+328
+00:17:43,022 --> 00:17:49,082
+I was really nervous.
+
+329
+00:17:49,082 --> 00:17:58,042
+But your personality is like the sun, and you really light up the way for us.
+
+330
+00:17:58,042 --> 00:18:05,822
+I'll be waiting for you.
+
+331
+00:18:05,822 --> 00:18:07,762
+I'll be waiting for you!
+
+332
+00:18:09,422 --> 00:18:13,922
+Sakura-chan will actually be at the Weather News Live Coffee Time!
+
+333
+00:18:13,922 --> 00:18:20,762
+Sakura will actually appear on the Weather News Live Coffee Time on May 18 at 11:30 a.m.!
+
+334
+00:18:20,762 --> 00:18:24,562
+I will do my best based on today's practice!I will do my best based on today's practice.
+
+335
+00:18:24,562 --> 00:18:25,262
+Let's do our best!
+
+336
+00:18:27,248 --> 00:18:37,941
+Thank you for watching!

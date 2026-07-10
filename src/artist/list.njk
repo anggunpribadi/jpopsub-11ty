@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+title: Artists
+permalink: /artist/index.html
+---
+
+<h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-6 md:mb-8">Artists</h1>
+<ul class="space-y-2">
+  {% for artist in collections.artists %}
+  <li>
+    <a href="/artist/{{ artist.slug }}/" class="block rounded-lg px-3 py-2 text-gray-700 hover:bg-gray-100">
+      {{ artist.name }} ({{ artist.count }})
+    </a>
+  </li>
+  {% endfor %}
+</ul>

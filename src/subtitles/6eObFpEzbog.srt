@@ -1,0 +1,1827 @@
+1
+00:00:00,000 --> 00:00:01,840
+I'm going to go out on a high note.
+
+2
+00:00:01,840 --> 00:00:05,000
+600,000.
+
+3
+00:00:05,640 --> 00:00:08,020
+Another youngster.
+
+4
+00:00:08,020 --> 00:00:10,980
+Let's do a temporary fix first.
+
+5
+00:00:10,980 --> 00:00:14,560
+Wait a minute, this is bad.
+
+6
+00:00:14,560 --> 00:00:15,580
+An-go an-go!
+
+7
+00:00:20,154 --> 00:00:24,774
+Hello, I'm Akari Nibun of Hinatazaka 46.
+
+8
+00:00:24,774 --> 00:00:28,014
+Today I'm here in Akihabara.
+
+9
+00:00:28,014 --> 00:00:30,914
+A street with an Akihabara feel
+
+10
+00:00:30,914 --> 00:00:35,474
+This time, I came here to build my own PC.
+
+11
+00:00:35,474 --> 00:00:41,894
+I've been longing for a home-built PC for a long time now.
+
+12
+00:00:41,894 --> 00:00:43,174
+I've always wanted to make a home-built PC.
+
+13
+00:00:43,174 --> 00:00:45,014
+Akihabara is not Akihabara
+
+14
+00:00:45,014 --> 00:00:50,094
+There are a lot of stores selling PC parts and so on.
+
+15
+00:00:50,094 --> 00:00:52,314
+I want to go there.
+
+16
+00:00:52,314 --> 00:00:57,814
+to buy a home-built PC.
+
+17
+00:00:57,814 --> 00:01:02,514
+I have to buy the parts one by one by myself.
+
+18
+00:01:02,514 --> 00:01:04,234
+I have to buy the case and so on.
+
+19
+00:01:04,234 --> 00:01:06,474
+Windows OS
+
+20
+00:01:06,474 --> 00:01:07,814
+Motherboard, etc.
+
+21
+00:01:07,814 --> 00:01:10,994
+I need a lot of different parts.
+
+22
+00:01:10,994 --> 00:01:13,854
+It's the first time for me, isn't it?
+
+23
+00:01:13,854 --> 00:01:17,614
+This is the first time for me to build a computer from scratch.
+
+24
+00:01:17,614 --> 00:01:19,814
+I'm looking forward to it!
+
+25
+00:01:19,814 --> 00:01:23,054
+I come to Akihabara more often than I thought I would.
+
+26
+00:01:23,054 --> 00:01:26,314
+There are a lot of restaurants.
+
+27
+00:01:26,314 --> 00:01:28,014
+It's a battleground.
+
+28
+00:01:28,014 --> 00:01:30,134
+Oh, no, I'm here when I talked about restaurants!
+
+29
+00:01:30,134 --> 00:01:33,094
+Ta-da!
+
+30
+00:01:33,094 --> 00:01:35,934
+We've arrived at Tsukumo-san!
+
+31
+00:01:35,934 --> 00:01:40,494
+I'm going to choose parts and build my own PC here!
+
+32
+00:01:40,494 --> 00:01:46,434
+Mr. Kamioka, who will help me choose parts for my home-built PC today and teach me how to build it.
+
+33
+00:01:46,434 --> 00:01:49,634
+Mr. Kamioka, who will help us to choose the parts for our home-built PC today, and teach us how to build it.
+
+34
+00:01:49,634 --> 00:01:49,794
+Mr. Kamioka, who will teach us how to build our own PC.
+
+35
+00:01:49,814 --> 00:01:51,454
+Nice to meet you.
+
+36
+00:01:51,454 --> 00:01:52,994
+Oh, please let me film you.
+
+37
+00:01:52,994 --> 00:01:54,494
+Please allow me to show you.
+
+38
+00:01:54,494 --> 00:01:56,754
+Please let me see it.
+
+39
+00:01:56,754 --> 00:01:58,854
+If you don't mind, I'd like to take a look at the outer PC case.
+
+40
+00:01:58,854 --> 00:01:59,554
+From the case?
+
+41
+00:01:59,554 --> 00:02:00,154
+Yes, sir.
+
+42
+00:02:00,154 --> 00:02:02,734
+If you would like to take a look.
+
+43
+00:02:02,734 --> 00:02:04,534
+PC case corner
+
+44
+00:02:04,534 --> 00:02:09,074
+Wow, there are so many!
+
+45
+00:02:09,074 --> 00:02:11,274
+They are so big!
+
+46
+00:02:11,274 --> 00:02:16,434
+I was thinking of going with a black base this time.
+
+47
+00:02:16,434 --> 00:02:17,614
+It's so cool!
+
+48
+00:02:17,614 --> 00:02:19,634
+I want to make a cool gaming PC.
+
+49
+00:02:19,634 --> 00:02:20,634
+I want to make it.
+
+50
+00:02:20,634 --> 00:02:26,774
+But I'd like a case with glass walls so I can see what's inside.
+
+51
+00:02:26,774 --> 00:02:31,774
+Pillarless cases with glass on the sides are very popular these days.
+
+52
+00:02:31,774 --> 00:02:33,314
+Is that a trend?
+
+53
+00:02:33,314 --> 00:02:37,354
+I'm thinking of making it double-sided.
+
+54
+00:02:37,354 --> 00:02:42,694
+This one is really shiny right now.
+
+55
+00:02:42,694 --> 00:02:45,634
+This shiny part is not a case, is it?
+
+56
+00:02:45,634 --> 00:02:47,694
+No, it's already there from the beginning.
+
+57
+00:02:47,694 --> 00:02:49,274
+Oh, there's a shiny part on the case?
+
+58
+00:02:49,274 --> 00:02:49,634
+Is there a shiny part on the case?
+
+59
+00:02:49,634 --> 00:02:50,134
+Yes, it is.
+
+60
+00:02:50,134 --> 00:02:50,634
+Yes, sir.
+
+61
+00:02:50,634 --> 00:02:51,634
+That's cool.
+
+62
+00:02:51,634 --> 00:02:52,134
+Yes, it is.
+
+63
+00:02:52,134 --> 00:02:55,634
+Oh, it's kinda cool.
+
+64
+00:02:55,634 --> 00:02:57,634
+I'm going to go with "cool.
+
+65
+00:02:57,634 --> 00:02:59,634
+So is there anything that's a little bit difficult to clean?
+
+66
+00:02:59,634 --> 00:03:02,634
+It's glass, so here...
+
+67
+00:03:02,634 --> 00:03:03,634
+Loosen it up.
+
+68
+00:03:03,634 --> 00:03:06,634
+I'll just wipe the air out of the inside.
+
+69
+00:03:06,634 --> 00:03:09,634
+Oh, I'm just gonna make it look really cool.
+
+70
+00:03:09,634 --> 00:03:13,634
+This way, okay? I think I'm going to go ahead and do it.
+
+71
+00:03:13,634 --> 00:03:14,634
+I'd like to do it this way.
+
+72
+00:03:14,634 --> 00:03:16,634
+It's a great case.
+
+73
+00:03:16,634 --> 00:03:17,634
+Can I go with this one in black?
+
+74
+00:03:17,634 --> 00:03:18,634
+Yes, this one, please.
+
+75
+00:03:18,634 --> 00:03:19,634
+Yes, sir.
+
+76
+00:03:19,634 --> 00:03:20,634
+Yes, please.
+
+77
+00:03:20,634 --> 00:03:22,634
+We've decided on the case.
+
+78
+00:03:22,634 --> 00:03:24,634
+Great, great, great case!
+
+79
+00:03:24,634 --> 00:03:25,634
+Shut up.
+
+80
+00:03:26,634 --> 00:03:29,634
+Now, I'd like to choose a video card.
+
+81
+00:03:29,634 --> 00:03:32,634
+What do you mean by "video card"?
+
+82
+00:03:33,634 --> 00:03:34,634
+G-Force or something like that?
+
+83
+00:03:34,634 --> 00:03:37,634
+You know exactly what I'm talking about.
+
+84
+00:03:37,634 --> 00:03:41,634
+It's the most important part of the game.
+
+85
+00:03:42,634 --> 00:03:45,634
+You have 90? 4090?
+
+86
+00:03:45,634 --> 00:03:48,634
+This is the newest one.
+
+87
+00:03:48,634 --> 00:03:55,634
+I'm using a 2080 right now.
+
+88
+00:03:55,634 --> 00:03:56,634
+No, no, no, no.
+
+89
+00:03:56,634 --> 00:03:57,634
+No, I don't think so.
+
+90
+00:03:57,634 --> 00:03:58,634
+But it's nice of you to use it.
+
+91
+00:03:58,634 --> 00:03:59,634
+Thank you very much.
+
+92
+00:03:59,634 --> 00:04:02,634
+I bought it in about 2020.
+
+93
+00:04:02,634 --> 00:04:05,634
+I bought a very nice one back then...
+
+94
+00:04:05,634 --> 00:04:07,634
+Wait a minute.
+
+95
+00:04:07,634 --> 00:04:10,634
+600,000.
+
+96
+00:04:10,634 --> 00:04:11,634
+Really?
+
+97
+00:04:11,634 --> 00:04:12,634
+Really.
+
+98
+00:04:12,634 --> 00:04:16,634
+You can buy another computer.
+
+99
+00:04:16,634 --> 00:04:17,634
+Yes, sir.
+
+100
+00:04:17,634 --> 00:04:18,400
+How about a screen?
+
+101
+00:04:18,400 --> 00:04:24,400
+I'm on a bit of a budget. What do you recommend?
+
+102
+00:04:24,400 --> 00:04:30,400
+I recommend the PNY.
+
+103
+00:04:30,400 --> 00:04:32,400
+The one with three fans?
+
+104
+00:04:32,400 --> 00:04:34,400
+It glows.
+
+105
+00:04:34,400 --> 00:04:37,400
+Oh, it's so cool!
+
+106
+00:04:37,400 --> 00:04:43,400
+Then I'd like this one with three glowing fans.
+
+107
+00:04:43,400 --> 00:04:46,400
+This one, please. Thank you.
+
+108
+00:04:46,400 --> 00:04:48,400
+They're the ones at the bottom of the line. They're on sale today at the PNY Super Shop.
+
+109
+00:04:48,400 --> 00:04:52,400
+PNY Super Shop is out today. It's out today?
+
+110
+00:04:52,400 --> 00:04:57,400
+It's like a higher-end version of the one I'm choosing now.
+
+111
+00:04:57,400 --> 00:04:58,400
+Wait a minute.
+
+112
+00:04:58,400 --> 00:05:05,400
+I'm just a girl who's attracted to the newest model that's on sale today.
+
+113
+00:05:05,400 --> 00:05:11,400
+Should I switch to this newest model that's on sale today?
+
+114
+00:05:11,400 --> 00:05:13,400
+No problem at all.
+
+115
+00:05:13,400 --> 00:05:14,400
+Excuse me. Excuse me.
+
+116
+00:05:14,400 --> 00:05:15,400
+I'm sorry. No problem.
+
+117
+00:05:15,400 --> 00:05:16,400
+Excuse me.
+
+118
+00:05:16,400 --> 00:05:18,400
+I dropped it because I borrowed it.
+
+119
+00:05:18,400 --> 00:05:23,400
+I'd like to use this one, which is on sale today.
+
+120
+00:05:23,400 --> 00:05:25,400
+I'll have this ready for you.
+
+121
+00:05:25,400 --> 00:05:28,400
+We've decided on something pretty big, haven't we?
+
+122
+00:05:28,400 --> 00:05:33,400
+Yes, it's the most important part of the game.
+
+123
+00:05:33,400 --> 00:05:36,400
+I've already made a decision.
+
+124
+00:05:36,400 --> 00:05:40,400
+Next is the most important part of the computer, the CPU.
+
+125
+00:05:40,400 --> 00:05:43,400
+The motherboard for the CPU and video card.
+
+126
+00:05:43,400 --> 00:05:44,400
+Motherboard
+
+127
+00:05:44,400 --> 00:05:46,400
+The one I'm going to recommend this time is
+
+128
+00:05:46,400 --> 00:05:49,400
+Intel Core i series.
+
+129
+00:05:49,400 --> 00:05:53,400
+Besides gaming, how about video editing?
+
+130
+00:05:53,400 --> 00:06:00,400
+Editing...I have a separate computer for editing.
+
+131
+00:06:00,400 --> 00:06:02,400
+I have a separate Mac computer for editing.
+
+132
+00:06:02,400 --> 00:06:06,400
+But to be honest, it's really hard to project.
+
+133
+00:06:06,400 --> 00:06:11,400
+I'd like to be able to use one computer in the future.
+
+134
+00:06:11,400 --> 00:06:15,400
+In that case, it would be great if you could install this.
+
+135
+00:06:15,400 --> 00:06:19,400
+If you install it, you can play games and distribute at the same time.
+
+136
+00:06:19,400 --> 00:06:21,400
+I can also edit videos while playing games and distributing them.
+
+137
+00:06:21,400 --> 00:06:25,400
+Yes, I think I can explain it in a simple way.
+
+138
+00:06:25,400 --> 00:06:28,400
+Then, what do you recommend?
+
+139
+00:06:28,400 --> 00:06:30,400
+Next is the motherboard.
+
+140
+00:06:30,400 --> 00:06:31,400
+Yes, motherboards.
+
+141
+00:06:31,400 --> 00:06:33,400
+It can be black or white.
+
+142
+00:06:33,400 --> 00:06:37,400
+There are many kinds of motherboards in terms of performance and expandability.
+
+143
+00:06:37,400 --> 00:06:39,400
+There are many kinds of motherboards.
+
+144
+00:06:39,400 --> 00:06:42,400
+This is the one I was going to show you this time.
+
+145
+00:06:42,400 --> 00:06:43,400
+Wow!
+
+146
+00:06:43,400 --> 00:06:45,400
+It's made by a manufacturer called ASUS.
+
+147
+00:06:45,400 --> 00:06:47,400
+Warlord for 18 consecutive years
+
+148
+00:06:47,400 --> 00:06:49,400
+It's not a warlord, but...
+
+149
+00:06:49,400 --> 00:06:56,400
+It's a durable model for people who play games.
+
+150
+00:06:56,400 --> 00:06:58,400
+So it can be used for many years?
+
+151
+00:06:58,400 --> 00:06:59,400
+Yes, that's right.
+
+152
+00:06:59,400 --> 00:07:04,400
+Even if you put the maximum load on the CPA you chose this time
+
+153
+00:07:04,400 --> 00:07:07,400
+Even if you put maximum load on it
+
+154
+00:07:07,400 --> 00:07:10,400
+It's made to be durable enough to withstand the maximum load.
+
+155
+00:07:10,400 --> 00:07:12,400
+Even if you max it out?
+
+156
+00:07:13,400 --> 00:07:14,400
+Yes, we do.
+
+157
+00:07:14,400 --> 00:07:15,400
+I believe you.
+
+158
+00:07:15,400 --> 00:07:17,400
+I'll take this one.
+
+159
+00:07:17,400 --> 00:07:18,400
+Thank you very much.
+
+160
+00:07:18,400 --> 00:07:22,400
+Next is the CPU cooler to cool the CPU.
+
+161
+00:07:22,400 --> 00:07:23,400
+Cooler.
+
+162
+00:07:23,400 --> 00:07:27,400
+Now, there are two main types of coolers, one is for cooling the CPU with water.
+
+163
+00:07:27,400 --> 00:07:29,400
+This simple water-cooling type
+
+164
+00:07:29,400 --> 00:07:30,400
+Air cooler
+
+165
+00:07:30,400 --> 00:07:32,400
+There are two types of air coolers.
+
+166
+00:07:32,400 --> 00:07:36,400
+In order to put it in the case this time, I used simple water cooling.
+
+167
+00:07:36,400 --> 00:07:38,400
+Make it shiny and bright!
+
+168
+00:07:38,400 --> 00:07:40,400
+It's even cooler!
+
+169
+00:07:40,400 --> 00:07:43,400
+The cooling capacity is higher than air cooling.
+
+170
+00:07:43,400 --> 00:07:44,400
+It's more expensive than air cooling.
+
+171
+00:07:44,400 --> 00:07:45,400
+So it's expensive.
+
+172
+00:07:45,400 --> 00:07:46,400
+Yes, it is.
+
+173
+00:07:46,400 --> 00:07:48,400
+The price range is pretty wide.
+
+174
+00:07:50,400 --> 00:07:54,400
+Are the temperatures displayed differently?
+
+175
+00:07:54,400 --> 00:07:58,400
+Of course, it's possible to display numbers and such here.
+
+176
+00:07:58,400 --> 00:08:00,400
+It's got a little fan or something like that.
+
+177
+00:08:00,400 --> 00:08:02,400
+There's also a small fan.
+
+178
+00:08:02,400 --> 00:08:06,400
+memory around the CPU and so on.
+
+179
+00:08:06,400 --> 00:08:09,400
+It's a system that blows air around the CPU
+
+180
+00:08:09,400 --> 00:08:10,400
+It's a system that can blow air around the CPU and the memory.
+
+181
+00:08:10,400 --> 00:08:12,400
+If you choose this type of case
+
+182
+00:08:12,400 --> 00:08:15,400
+As you can see, there are a lot of fans.
+
+183
+00:08:15,400 --> 00:08:17,400
+It's true that the case has a lot of fans.
+
+184
+00:08:17,400 --> 00:08:19,400
+The fan of the case will cool the case.
+
+185
+00:08:19,400 --> 00:08:21,400
+The fan itself cools the case, right?
+
+186
+00:08:21,400 --> 00:08:22,400
+That's right.
+
+187
+00:08:22,400 --> 00:08:24,400
+Then it's going to be full of fans.
+
+188
+00:08:24,400 --> 00:08:29,400
+I'd like to use only those that display the temperature.
+
+189
+00:08:32,560 --> 00:08:34,520
+Grown-up shopping.
+
+190
+00:08:36,666 --> 00:08:39,606
+Some memory also glows.
+
+191
+00:08:39,606 --> 00:08:41,406
+Memory glows.
+
+192
+00:08:41,406 --> 00:08:44,946
+It's glowing vertically.
+
+193
+00:08:44,946 --> 00:08:46,166
+That's it, right?
+
+194
+00:08:46,166 --> 00:08:46,586
+Yes, it is.
+
+195
+00:08:46,586 --> 00:08:48,486
+It's so cool.
+
+196
+00:08:48,486 --> 00:08:51,326
+I'd like to make it glow.
+
+197
+00:08:51,326 --> 00:08:56,026
+There's a popular and well-selling one over here called "Scheigh Mix.
+
+198
+00:08:56,026 --> 00:08:58,266
+Does it seem relatively fast?
+
+199
+00:08:58,266 --> 00:08:59,286
+I think it's pretty fast.
+
+200
+00:08:59,286 --> 00:08:59,646
+Pretty fast?
+
+201
+00:09:00,866 --> 00:09:03,266
+Then I want it to be very fast.
+
+202
+00:09:03,266 --> 00:09:09,026
+If you want to have enough power supply for the video card and CPU.
+
+203
+00:09:09,026 --> 00:09:11,886
+I'm thinking 850W or so.
+
+204
+00:09:11,886 --> 00:09:12,826
+850 watts.
+
+205
+00:09:12,826 --> 00:09:15,406
+Okay, I'll go with the 150.
+
+206
+00:09:15,406 --> 00:09:16,366
+Let's go with the 850.
+
+207
+00:09:16,366 --> 00:09:16,686
+Okay.
+
+208
+00:09:16,686 --> 00:09:19,266
+For normal usage.
+
+209
+00:09:19,266 --> 00:09:23,666
+I will suggest this one here on this Windows 11 home
+
+210
+00:09:23,666 --> 00:09:24,166
+Yes, sir
+
+211
+00:09:24,166 --> 00:09:29,926
+So, in order for me to build my own PC this time
+
+212
+00:09:29,926 --> 00:09:32,646
+I bought the parts here.
+
+213
+00:09:32,646 --> 00:09:33,246
+I found it.
+
+214
+00:09:33,266 --> 00:09:34,066
+It's all here.
+
+215
+00:09:36,784 --> 00:09:40,824
+This is going to be a PC.
+
+216
+00:09:40,824 --> 00:09:42,524
+I'll do my best to make it.
+
+217
+00:09:42,524 --> 00:09:44,824
+Thank you for choosing with us.
+
+218
+00:09:44,824 --> 00:09:45,864
+Yes, sir.
+
+219
+00:09:50,554 --> 00:09:55,214
+Now, let's start assembling.
+
+220
+00:09:55,214 --> 00:09:59,414
+I'd like you to help us, or rather, teach us.
+
+221
+00:09:59,414 --> 00:10:00,174
+Thank you very much.
+
+222
+00:10:00,174 --> 00:10:03,334
+Mr. Ito, you'll start with the motherboard, right?
+
+223
+00:10:03,334 --> 00:10:05,514
+Motherboard and CPU.
+
+224
+00:10:05,514 --> 00:10:07,234
+CPU
+
+225
+00:10:07,234 --> 00:10:08,534
+CPU. CPU.
+
+226
+00:10:08,534 --> 00:10:09,694
+I'm sorry.
+
+227
+00:10:09,694 --> 00:10:12,094
+Wow, it's so spiky!
+
+228
+00:10:12,094 --> 00:10:14,694
+Wow, it's spiky.
+
+229
+00:10:14,694 --> 00:10:17,014
+It's a computer part.
+
+230
+00:10:17,014 --> 00:10:19,974
+Wow, this kind of thing makes me nervous.
+
+231
+00:10:19,974 --> 00:10:22,954
+I love to assemble things.
+
+232
+00:10:22,954 --> 00:10:28,554
+I love shelves and moving screws.
+
+233
+00:10:28,554 --> 00:10:30,634
+I'm confident I can do that.
+
+234
+00:10:30,634 --> 00:10:32,514
+I'm confident I can do that, but this is pretty detailed.
+
+235
+00:10:32,514 --> 00:10:36,314
+Open here.
+
+236
+00:10:36,314 --> 00:10:37,874
+Really?
+
+237
+00:10:39,312 --> 00:10:48,372
+I'm sure it'll open... without removing it.
+
+238
+00:10:48,372 --> 00:10:53,812
+You can push the lever in and out.
+
+239
+00:10:53,812 --> 00:11:01,572
+It's a little more sexy than the other way around.
+
+240
+00:11:01,572 --> 00:11:03,648
+Wow!
+
+241
+00:11:03,648 --> 00:11:08,928
+This is a core iron.
+
+242
+00:11:08,928 --> 00:11:11,328
+Excuse me.
+
+243
+00:11:11,328 --> 00:11:13,888
+I'm so embarrassed.
+
+244
+00:11:13,888 --> 00:11:19,708
+I'm a complete novice! Yes, with my back to the right, facing this way.
+
+245
+00:11:19,708 --> 00:11:22,408
+I'm so nervous.
+
+246
+00:11:22,508 --> 00:11:25,208
+I'm in.
+
+247
+00:11:26,768 --> 00:11:30,704
+There's a triangle here. Now close it.
+
+248
+00:11:30,704 --> 00:11:32,704
+Are you sure you're okay?
+
+249
+00:11:32,704 --> 00:11:34,704
+I'm fine.
+
+250
+00:11:34,704 --> 00:11:36,704
+Now, press the lever.
+
+251
+00:11:36,704 --> 00:11:38,704
+So this black lid comes off automatically.
+
+252
+00:11:40,704 --> 00:11:42,704
+Wow, you put a lot of force into this.
+
+253
+00:11:44,704 --> 00:11:46,704
+And then, this lid...
+
+254
+00:11:47,952 --> 00:11:49,952
+Installation is completed.
+
+255
+00:11:49,952 --> 00:11:51,952
+CPU
+
+256
+00:11:51,952 --> 00:11:54,952
+Next, let's install the SSD
+
+257
+00:11:54,952 --> 00:11:57,952
+Wow, this is also very delicate
+
+258
+00:11:58,952 --> 00:12:00,952
+Oh, this way
+
+259
+00:12:01,952 --> 00:12:03,952
+Wow!
+
+260
+00:12:03,952 --> 00:12:05,952
+The shape of the screws...
+
+261
+00:12:06,952 --> 00:12:08,952
+I don't see much.
+
+262
+00:12:08,952 --> 00:12:10,952
+I don't think so.
+
+263
+00:12:10,952 --> 00:12:12,952
+Maybe it's off.
+
+264
+00:12:13,952 --> 00:12:14,952
+Give me the other one.
+
+265
+00:12:14,952 --> 00:12:15,632
+Yes, sir.
+
+266
+00:12:15,632 --> 00:12:19,132
+Forever. Is it off?
+
+267
+00:12:19,132 --> 00:12:27,632
+Oh, it's off. Now, I'll have you insert it here, here, and this part will move and lock in place.
+
+268
+00:12:27,632 --> 00:12:30,632
+I see.
+
+269
+00:12:30,632 --> 00:12:34,432
+Here it comes.
+
+270
+00:12:34,432 --> 00:12:37,632
+And lock it.
+
+271
+00:12:39,936 --> 00:12:42,936
+Yes, I've got it!
+
+272
+00:12:42,936 --> 00:12:45,936
+SSD attached!
+
+273
+00:12:45,936 --> 00:12:51,936
+I'd like to attach the memory here
+
+274
+00:12:51,936 --> 00:12:55,936
+It's only supposed to stick when it sticks.
+
+275
+00:12:55,936 --> 00:12:57,936
+I think it's this way...
+
+276
+00:13:01,936 --> 00:13:03,936
+It's the other way.
+
+277
+00:13:03,936 --> 00:13:06,936
+It was the other way!
+
+278
+00:13:09,936 --> 00:13:13,936
+This way...
+
+279
+00:13:21,066 --> 00:13:23,806
+It's stuck.
+
+280
+00:13:23,806 --> 00:13:26,406
+I'm done sticking in the memory.
+
+281
+00:13:26,406 --> 00:13:28,026
+It's going pretty well.
+
+282
+00:13:34,026 --> 00:13:42,026
+It went through this screw hole.
+
+283
+00:13:42,026 --> 00:13:46,026
+So, let's put this screw through.
+
+284
+00:13:46,026 --> 00:13:49,026
+Let's do a temporary fix first.
+
+285
+00:13:49,026 --> 00:13:52,026
+Quickly and quickly.
+
+286
+00:13:56,026 --> 00:13:58,026
+Now let's install the fan.
+
+287
+00:14:00,026 --> 00:14:03,026
+I made it so that it comes out this way.
+
+288
+00:14:04,026 --> 00:14:04,224
+Here we go.
+
+289
+00:14:04,224 --> 00:14:09,665
+What?
+
+290
+00:14:10,764 --> 00:14:13,524
+The screws and screwdriver are magnetically attached.
+
+291
+00:14:14,124 --> 00:14:16,744
+It's so strong, I'm surprised.
+
+292
+00:14:17,624 --> 00:14:18,204
+Suddenly I understood.
+
+293
+00:14:32,874 --> 00:14:37,054
+Okay, the fan is attached.
+
+294
+00:14:37,054 --> 00:14:43,195
+Next, I'd like to put the motherboard inside the case.
+
+295
+00:14:43,195 --> 00:14:45,994
+As it is.
+
+296
+00:14:48,695 --> 00:14:52,695
+Hmmm, it's pretty low.
+
+297
+00:14:52,714 --> 00:14:54,714
+Oh, this is it.
+
+298
+00:14:54,714 --> 00:14:56,714
+This is here, right?
+
+299
+00:14:56,714 --> 00:14:59,714
+These tiny screws, oh, they'll fit.
+
+300
+00:14:59,714 --> 00:15:02,714
+Oh, wait, this works with a magnet?
+
+301
+00:15:02,714 --> 00:15:04,714
+Huh!
+
+302
+00:15:04,714 --> 00:15:06,714
+Huh!
+
+303
+00:15:06,714 --> 00:15:08,714
+I'm going to drop it.
+
+304
+00:15:11,714 --> 00:15:12,714
+Huh!
+
+305
+00:15:14,714 --> 00:15:16,714
+So this is how you use it.
+
+306
+00:15:16,714 --> 00:15:18,714
+Am I right?
+
+307
+00:15:18,714 --> 00:15:20,714
+That's right.
+
+308
+00:15:21,521 --> 00:15:23,521
+This is how you grow up.
+
+309
+00:15:23,521 --> 00:15:25,521
+Maybe?
+
+310
+00:15:28,521 --> 00:15:32,521
+Yes, I think I could have used 9, 2, 3, 4, 5, 6, 7, 8.
+
+311
+00:15:37,521 --> 00:15:39,521
+I think I got all the codes.
+
+312
+00:15:39,521 --> 00:15:41,521
+Yes, it's okay.
+
+313
+00:15:41,521 --> 00:15:43,521
+Wow, this is bad.
+
+314
+00:15:43,521 --> 00:15:45,521
+Let's start from here. I'll start with Catoccio.
+
+315
+00:15:49,642 --> 00:15:53,642
+Do any of the other members play PC games?
+
+316
+00:15:53,642 --> 00:15:58,642
+I play with Haruyo Yamaguchi at Playbate.
+
+317
+00:15:58,642 --> 00:16:00,642
+Also, she said she bought some Naimo.
+
+318
+00:16:00,642 --> 00:16:07,642
+I think there are about three of us who have gaming PCs, including myself.
+
+319
+00:16:07,642 --> 00:16:10,642
+I think there are three of us.
+
+320
+00:16:10,642 --> 00:16:12,642
+But we haven't played with three people yet.
+
+321
+00:16:12,642 --> 00:16:13,642
+With you?
+
+322
+00:16:13,642 --> 00:16:15,642
+I've never done it.
+
+323
+00:16:15,642 --> 00:16:17,642
+I've done it with Haruyo a little.
+
+324
+00:16:19,600 --> 00:16:25,280
+Well, I think it's going to be a lot of fun. I'm almost done with this.
+
+325
+00:16:25,280 --> 00:16:27,560
+Well...
+
+326
+00:16:27,560 --> 00:16:29,400
+This might be a little difficult.
+
+327
+00:16:29,400 --> 00:16:32,600
+There's a theory that there might be something to this combination.
+
+328
+00:16:32,600 --> 00:16:33,600
+Wait a minute.
+
+329
+00:16:40,600 --> 00:16:41,600
+Phew!
+
+330
+00:16:41,834 --> 00:16:44,834
+This is the hardest quiz I've ever taken.
+
+331
+00:16:44,834 --> 00:16:48,834
+Are you saying I should put all of these on?
+
+332
+00:16:48,834 --> 00:16:50,834
+That's right.
+
+333
+00:16:50,834 --> 00:16:52,834
+Just plug in all the connectors that fit.
+
+334
+00:16:52,834 --> 00:16:54,834
+I see.
+
+335
+00:16:56,834 --> 00:16:57,834
+That's good.
+
+336
+00:16:58,000 --> 00:17:01,000
+No, no, no, no, no, no, no, no, no, no.
+
+337
+00:17:01,000 --> 00:17:03,000
+I can't do it at this point.
+
+338
+00:17:03,000 --> 00:17:05,001
+It's right up here.
+
+339
+00:17:05,001 --> 00:17:07,001
+I said, "This is the right one.
+
+340
+00:17:07,001 --> 00:17:09,001
+But here are four.
+
+341
+00:17:09,001 --> 00:17:11,001
+Yes, sir.
+
+342
+00:17:11,001 --> 00:17:12,001
+That's not fair.
+
+343
+00:17:12,001 --> 00:17:14,001
+Three needles and four holes.
+
+344
+00:17:14,001 --> 00:17:16,001
+There are four holes, and this is the right one.
+
+345
+00:17:16,001 --> 00:17:18,001
+You're right.
+
+346
+00:17:18,001 --> 00:17:20,001
+Oh? Is this it?
+
+347
+00:17:20,001 --> 00:17:22,001
+The direction.
+
+348
+00:17:22,001 --> 00:17:23,001
+Oh, it's facing the other way.
+
+349
+00:17:23,001 --> 00:17:24,001
+Excuse me.
+
+350
+00:17:24,001 --> 00:17:25,001
+It's right here, isn't it?
+
+351
+00:17:25,001 --> 00:17:25,771
+Yes, sir.
+
+352
+00:17:25,771 --> 00:17:27,771
+Thank you.
+
+353
+00:17:27,771 --> 00:17:29,770
+Is this it?
+
+354
+00:17:29,770 --> 00:17:31,770
+Wait a minute.
+
+355
+00:17:31,770 --> 00:17:33,770
+This is terrible.
+
+356
+00:17:33,770 --> 00:17:35,770
+Crypto-code. Crypto-code.
+
+357
+00:17:35,770 --> 00:17:37,770
+First of all, power.
+
+358
+00:17:37,770 --> 00:17:39,770
+Power.
+
+359
+00:17:39,770 --> 00:17:41,770
+Power
+
+360
+00:17:41,770 --> 00:17:43,770
+power
+
+361
+00:17:43,770 --> 00:17:45,770
+power
+
+362
+00:17:47,770 --> 00:17:49,770
+north, north, north
+
+363
+00:17:50,384 --> 00:17:51,444
+it stings!
+
+364
+00:17:51,444 --> 00:17:54,504
+These four are these little tiny
+
+365
+00:17:54,504 --> 00:17:55,765
+ug ug ug ug ug
+
+366
+00:17:55,765 --> 00:17:57,204
+Stabbed.
+
+367
+00:17:57,204 --> 00:18:00,664
+Is this supposed to be here?
+
+368
+00:18:02,144 --> 00:18:04,065
+Oh, my God, it floats.
+
+369
+00:18:04,065 --> 00:18:06,644
+Screws.
+
+370
+00:18:06,644 --> 00:18:08,164
+It's a screw.
+
+371
+00:18:08,164 --> 00:18:10,504
+All right.
+
+372
+00:18:10,504 --> 00:18:12,924
+Surprisingly, this one...
+
+373
+00:18:18,880 --> 00:18:20,880
+It's on the body.
+
+374
+00:18:20,880 --> 00:18:24,880
+It says "CPU" or something like that.
+
+375
+00:18:24,880 --> 00:18:27,880
+It only sticks where it's supposed to stick.
+
+376
+00:18:27,880 --> 00:18:29,880
+It only goes where it sticks.
+
+377
+00:18:29,880 --> 00:18:30,880
+Yes, sir.
+
+378
+00:18:30,880 --> 00:18:32,880
+I'll see what I can do.
+
+379
+00:18:32,880 --> 00:18:34,880
+I'll try it. Okay.
+
+380
+00:18:40,106 --> 00:18:41,566
+It's done.
+
+381
+00:18:41,566 --> 00:18:43,946
+All the cords are connected.
+
+382
+00:18:43,946 --> 00:18:45,846
+Here it is.
+
+383
+00:18:45,846 --> 00:18:47,746
+Wow, that's amazing.
+
+384
+00:18:47,746 --> 00:18:50,806
+The picture shows a lot of wires.
+
+385
+00:18:50,806 --> 00:18:53,346
+Let's see, this is the bottom.
+
+386
+00:18:53,346 --> 00:18:55,506
+It looks like this, right?
+
+387
+00:18:55,506 --> 00:18:55,666
+Here.
+
+388
+00:18:55,666 --> 00:19:01,426
+Let's plug this in.
+
+389
+00:19:01,426 --> 00:19:02,846
+Oh, here it is!
+
+390
+00:19:02,846 --> 00:19:05,606
+I'm sure it's in.
+
+391
+00:19:05,606 --> 00:19:08,646
+Squeeze!
+
+392
+00:19:08,646 --> 00:19:10,526
+Squeeze it.
+
+393
+00:19:10,538 --> 00:19:12,538
+Here you go.
+
+394
+00:19:12,538 --> 00:19:17,538
+G-Force RTX
+
+395
+00:19:17,538 --> 00:19:19,538
+Cool!
+
+396
+00:19:19,538 --> 00:19:21,538
+It's attached!
+
+397
+00:19:23,538 --> 00:19:24,538
+It doesn't click.
+
+398
+00:19:24,538 --> 00:19:26,538
+But it's good if it sticks
+
+399
+00:19:26,538 --> 00:19:28,538
+It doesn't click.
+
+400
+00:19:31,538 --> 00:19:32,538
+But it sticks.
+
+401
+00:19:32,538 --> 00:19:33,538
+Yes, it's stuck.
+
+402
+00:19:40,490 --> 00:19:42,570
+It's done.
+
+403
+00:19:42,570 --> 00:19:50,950
+Now, I'd like to turn on the power.
+
+404
+00:19:54,950 --> 00:19:56,590
+Power on
+
+405
+00:19:56,590 --> 00:19:58,390
+Power on!
+
+406
+00:19:58,416 --> 00:20:02,616
+Wow! It's so colorful!
+
+407
+00:20:02,616 --> 00:20:03,716
+Amazing!
+
+408
+00:20:03,716 --> 00:20:08,216
+And you can change the color with this LED button!
+
+409
+00:20:09,216 --> 00:20:11,116
+White is so good!
+
+410
+00:20:11,716 --> 00:20:13,116
+It's so cool!
+
+411
+00:20:13,616 --> 00:20:17,817
+You can change it to so many different colors!
+
+412
+00:20:17,817 --> 00:20:19,616
+The color of the sun is amazing!
+
+413
+00:20:24,528 --> 00:20:29,368
+I'm going to play a little bit of the game Vallorant!
+
+414
+00:20:29,368 --> 00:20:33,288
+Okay, let's play Swift!
+
+415
+00:20:33,288 --> 00:20:41,208
+It's so beautiful, it's so clear, you can even see the jet's eye shadow on the character's eyes!
+
+416
+00:20:41,208 --> 00:20:42,868
+It's amazing!
+
+417
+00:20:42,868 --> 00:20:48,208
+I can even see Jet's eye shadow!
+
+418
+00:20:48,208 --> 00:20:50,468
+It's soooooooooooooooooooooooooooooooooooooooooooooooooooo wet!
+
+419
+00:20:52,192 --> 00:20:57,512
+It's so beautiful and there's no lag.
+
+420
+00:20:57,512 --> 00:21:02,252
+You can see the afterimage.
+
+421
+00:21:02,252 --> 00:21:07,032
+I can see the afterimage.
+
+422
+00:21:07,032 --> 00:21:10,812
+I wonder if I can beat it with this.
+
+423
+00:21:10,992 --> 00:21:13,232
+Here we go.
+
+424
+00:21:13,232 --> 00:21:15,792
+Oh, yeah, that's good.
+
+425
+00:21:15,792 --> 00:21:19,888
+Nice. Back of the line.
+
+426
+00:21:19,888 --> 00:21:22,888
+Oh, my God, you got an entry.
+
+427
+00:21:22,888 --> 00:21:26,248
+You dropped it.
+
+428
+00:21:26,250 --> 00:21:29,290
+I don't think there's probably anything in there.
+
+429
+00:21:29,290 --> 00:21:34,030
+Wow, it's beautiful.
+
+430
+00:21:34,030 --> 00:21:39,171
+All these little names are so beautiful.
+
+431
+00:21:39,171 --> 00:21:41,931
+The map looks so beautiful.
+
+432
+00:21:41,931 --> 00:21:42,931
+It's so smooth!
+
+433
+00:21:42,931 --> 00:21:46,231
+The latest is different.
+
+434
+00:21:46,231 --> 00:21:48,631
+I knew it was released on that day.
+
+435
+00:21:48,631 --> 00:21:52,370
+Everything is so easy to play!
+
+436
+00:21:52,370 --> 00:21:54,931
+Everything is easy to play
+
+437
+00:21:54,931 --> 00:21:57,070
+It's easy to play.
+
+438
+00:21:57,070 --> 00:21:59,570
+I feel like I'm already good at it
+
+439
+00:21:59,570 --> 00:22:04,990
+I feel like I'm so lukewarm, I feel like I'm at my strongest right now
+
+440
+00:22:04,990 --> 00:22:07,931
+I can't wait to use this at home!
+
+441
+00:22:07,931 --> 00:22:09,070
+I'm done!
+
+442
+00:22:09,070 --> 00:22:12,850
+I won!
+
+443
+00:22:12,850 --> 00:22:14,270
+My first win!
+
+444
+00:22:14,270 --> 00:22:16,731
+My first win on this first PC.
+
+445
+00:22:16,731 --> 00:22:18,891
+Ascent!
+
+446
+00:22:18,891 --> 00:22:23,691
+I knew it was a game I usually play every day.
+
+447
+00:22:23,691 --> 00:22:24,731
+I was so impressed
+
+448
+00:22:24,731 --> 00:22:27,270
+I was so impressed by how it changed.
+
+449
+00:22:27,270 --> 00:22:30,471
+I was also impressed with the game.
+
+450
+00:22:30,471 --> 00:22:33,270
+I was also impressed by the game and the visuals of the computer.
+
+451
+00:22:33,270 --> 00:22:37,731
+The visual of this computer is really cool, and it changes a lot of colors.
+
+452
+00:22:37,731 --> 00:22:39,370
+I'm so excited!
+
+453
+00:22:39,370 --> 00:22:44,070
+That's all for now, this is Akari's home-built PC project!
+
+454
+00:22:44,070 --> 00:22:45,671
+Thank you very much!
+
+455
+00:22:45,671 --> 00:22:49,330
+Please subscribe to our channel and give us a high rating!
+
+456
+00:22:49,330 --> 00:22:51,330
+Please subscribe and rate our channel!
+
+457
+00:22:54,731 --> 00:23:00,001
+Thank you for watching!

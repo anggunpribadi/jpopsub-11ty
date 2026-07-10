@@ -1,0 +1,53 @@
+{# Expects: posts (array). 3 columns on large screens. #}
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+  {% for post in posts %}
+    <article class="rounded-xl border border-gray-200 bg-white overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+      <a href="{{ post.url }}" class="block">
+        {% set vid = post.data.videoID %}
+        <div class="aspect-video bg-gray-200 relative">
+          {% if vid %}
+          <img
+            src="https://img.youtube.com/vi/{{ vid }}/mqdefault.jpg"
+            alt=""
+            class="w-full h-full object-cover"
+            loading="lazy"
+            width="320"
+            height="180"
+          />
+          {% else %}
+          <div class="w-full h-full flex items-center justify-center text-gray-400 text-sm">No thumbnail</div>
+          {% endif %}
+        </div>
+        <div class="p-4">
+          <h2 class="font-semibold text-gray-900 line-clamp-2 mb-1">{{ post.data.title }}</h2>
+          <time datetime="{{ post.date | htmlDateString }}" class="text-sm text-gray-500">{{ post.date | formatDate }}</time>
+          {% if post.data.tags and post.data.tags.length %}
+          <div class="mt-2 flex flex-wrap gap-1.5">
+            {% for tag in post.data.tags | default([]) %}
+            <a href="/tag/{{ tag | slugify }}/" class="text-xs px-2 py-0.5 rounded bg-gray-100 text-gray-600 hover:bg-gray-200">{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+          {% if post.data.category %}
+          {% if post.data.category is string %}
+            {% set cats = [post.data.category] %}
+          {% else %}
+            {% set cats = post.data.category %}
+          {% endif %}
+          <p class="mt-2 text-xs text-gray-500">
+            <span class="font-medium text-gray-600">Artist{% if cats.length > 1 %}s{% endif %}:</span>
+            {% for c in cats %}
+              {% if c is string %}
+                <a href="/artist/{{ c | slugify }}/" class="hover:underline">{{ c }}</a>
+              {% else %}
+                <a href="/artist/{{ (c.slug or c.name or c) | slugify }}/" class="hover:underline">{{ c.name or c }}</a>
+              {% endif %}
+              {% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </p>
+          {% endif %}
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>

@@ -1,0 +1,222 @@
+{% extends "layouts/base.njk" %}
+
+{% block head %}
+  {% set pageUrl = page.url %}
+  {% if site.url %}
+    {% set pageUrl = site.url ~ page.url %}
+  {% endif %}
+  {% set description = content | excerpt(160) %}
+  {% if title %}
+  <meta name="description" content="{{ description }}" />
+  {% endif %}
+  {% set keywords = [] %}
+  {% if tags %}
+    {% for tag in tags %}
+      {% set keywords = keywords | push(tag) %}
+    {% endfor %}
+  {% endif %}
+  {% if category %}
+    {% if category is string %}
+      {% set cats = [category] %}
+    {% else %}
+      {% set cats = category %}
+    {% endif %}
+    {% for cat in cats %}
+      {% if cat is string %}
+        {% set keywords = keywords | push(cat) %}
+      {% else %}
+        {% set keywords = keywords | push(cat.name or cat) %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  
+  {% if keywords.length %}
+  <meta name="keywords" content="{{ keywords | join(', ') }}" />
+  {% endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if title %}{{ title }} | {% endif %}{{ site.title or 'Site' }}" />
+  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:type" content="{% if videoID %}video.other{% else %}article{% endif %}" />
+  <meta property="og:url" content="{{ pageUrl }}" />
+  {% if videoID %}
+  <meta property="og:image" content="https://img.youtube.com/vi/{{ videoID }}/maxresdefault.jpg" />
+  <meta property="og:video" content="https://www.youtube.com/embed/{{ videoID }}" />
+  <meta property="og:video:secure_url" content="https://www.youtube.com/embed/{{ videoID }}" />
+  <meta property="og:video:type" content="text/html" />
+  <meta property="og:video:width" content="1280" />
+  <meta property="og:video:height" content="720" />
+  {% endif %}
+  <meta property="og:site_name" content="{{ site.title or 'Site' }}" />
+
+  <link rel="canonical" href="{{ pageUrl }}" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="{% if videoID %}player{% else %}summary_large_image{% endif %}" />
+  <meta name="twitter:title" content="{% if title %}{{ title }} | {% endif %}{{ site.title or 'Site' }}" />
+  <meta name="twitter:description" content="{{ description }}" />
+  {% if videoID %}
+  <meta name="twitter:image" content="https://img.youtube.com/vi/{{ videoID }}/maxresdefault.jpg" />
+  <meta name="twitter:player" content="https://www.youtube.com/embed/{{ videoID }}" />
+  <meta name="twitter:player:width" content="1280" />
+  <meta name="twitter:player:height" content="720" />
+  {% endif %}
+
+  {% if videoID %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": {{ title | dump }},
+    "description": {{ description | dump }},
+    "thumbnailUrl": ["https://img.youtube.com/vi/{{ videoID }}/maxresdefault.jpg"],
+    "embedUrl": "https://www.youtube.com/embed/{{ videoID }}",
+    "contentUrl": "https://www.youtube.com/watch?v={{ videoID }}",
+    "url": {{ pageUrl | dump }}{% if date %},
+    "uploadDate": "{{ date | htmlDateString }}"{% endif %}
+  }
+  </script>
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+<article class="max-w-4xl">
+  <header class="mb-6 md:mb-8">
+    <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">{{ title }}</h1>
+    <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-gray-500">
+      {% if date %}
+      <time datetime="{{ date | htmlDateString }}">{{ date | formatDate }}</time>
+      {% endif %}
+      {% if tags and tags.length %}
+      <span class="flex flex-wrap gap-1.5">
+        {% for tag in tags %}
+        <a href="/tag/{{ tag | slugify }}/" class="text-gray-600 hover:text-gray-900">{{ tag }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </span>
+      {% endif %}
+      {% if category %}
+      {% if category is string %}
+        {% set cats = [category] %}
+      {% else %}
+        {% set cats = category %}
+      {% endif %}
+      <span>
+        Artist{% if cats.length > 1 %}s{% endif %}:
+        {% for cat in cats %}
+          {% if cat is string %}
+            <a href="/artist/{{ cat | slugify }}/" class="text-gray-600 hover:text-gray-900">{{ cat }}</a>
+          {% else %}
+            <a href="/artist/{{ (cat.slug or cat.name or cat) | slugify }}/" class="text-gray-600 hover:text-gray-900">{{ cat.name or cat }}</a>
+          {% endif %}
+          {% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </span>
+      {% endif %}
+    </div>
+  </header>
+
+  {% if videoID %}
+  <div class="mb-8 rounded-xl overflow-hidden border border-gray-200 bg-black">
+    <div
+      class="aspect-video relative"
+      data-video-id="{{ videoID }}"
+      data-subtitle-url="{{ site.cloudinarySubtitleBase }}/{{ videoID }}.json"
+      data-video-title="{{ title | escape }}"
+    >
+      <button
+        type="button"
+        class="group absolute inset-0 w-full h-full text-left"
+        data-youtube-lite
+        aria-label="Play video"
+        style="background: center / cover no-repeat url('https://img.youtube.com/vi/{{ videoID }}/hqdefault.jpg');"
+      >
+        <span class="absolute inset-0 bg-black/40  hover:bg-black/25 transition-colors"></span>
+        <span class="absolute inset-0 flex items-center justify-center">
+          <span class="inline-flex items-center justify-center w-16 bg-black h-16 rounded-full text-gray-900 shadow-lg group-hover:scale-105 transition-transform">
+            <svg viewBox="0 0 24 24" class="w-16 h-16 text-white ml-0.5" fill="currentColor" aria-hidden="true"><path d="M12,1A11,11,0,1,0,23,12,11.013,11.013,0,0,0,12,1Zm0,20a9,9,0,1,1,9-9A9.011,9.011,0,0,1,12,21ZM10,8l6,4-6,4Z"></path></svg>
+          </span>
+        </span>
+      </button>
+      <noscript>
+        <iframe
+          id="yt-{{ videoID }}"
+          class="absolute inset-0 w-full h-full"
+          src="https://www.youtube.com/embed/{{ videoID }}?enablejsapi=1&html5=1&playsinline=1&fs=0"
+          title="{{ title }}"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </noscript>
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="prose prose-gray max-w-none">
+    {{ content | safe }}
+  </div>
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/js/youtube.external.subtitle.js" defer></script>
+<script defer>
+(function () {
+  function loadSubtitles(url) {
+    return fetch(url)
+      .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error("Not found")); })
+      .then(function (data) {
+        var raw = (data && data.subtitles) ? data.subtitles : (Array.isArray(data) ? data : []);
+        return raw.map(function (item) {
+          return {
+            start: item.start != null ? item.start : item.startTime,
+            end: item.end != null ? item.end : item.endTime,
+            text: item.text
+          };
+        });
+      })
+      .catch(function () { return []; });
+  }
+
+  function ensureIframe(container) {
+    var videoId = container.getAttribute("data-video-id");
+    var existing = document.getElementById("yt-" + videoId);
+    if (existing) return existing;
+
+    var iframe = document.createElement("iframe");
+    iframe.id = "yt-" + videoId;
+    iframe.className = "absolute inset-0 w-full h-full";
+    iframe.src = "https://www.youtube.com/embed/" + videoId + "?enablejsapi=1&html5=1&playsinline=1&fs=0&autoplay=1";
+    iframe.title = container.getAttribute("data-video-title") || "YouTube video";
+    iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+    iframe.allowFullscreen = true;
+    container.appendChild(iframe);
+    return iframe;
+  }
+
+  function initSubtitles(container, iframe) {
+    var subtitleUrl = container.getAttribute("data-subtitle-url");
+    if (!subtitleUrl) return;
+    if (!window.YoutubeExternalSubtitle || !window.YoutubeExternalSubtitle.Subtitle) return;
+
+    loadSubtitles(subtitleUrl).then(function (subtitles) {
+      if (!subtitles.length) return;
+      try {
+        new window.YoutubeExternalSubtitle.Subtitle(iframe, subtitles);
+      } catch (e) {}
+    });
+  }
+
+  document.addEventListener("click", function (e) {
+    var btn = e.target && e.target.closest ? e.target.closest("[data-youtube-lite]") : null;
+    if (!btn) return;
+    var container = btn.parentElement;
+    if (!container) return;
+    e.preventDefault();
+    btn.remove();
+
+    var iframe = ensureIframe(container);
+    initSubtitles(container, iframe);
+  });
+})();
+</script>
+{% endblock %}

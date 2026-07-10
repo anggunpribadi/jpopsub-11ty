@@ -1,0 +1,743 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello everyone
+
+2
+00:00:02,000 --> 00:00:04,000
+Everyone is cold
+
+3
+00:00:09,000 --> 00:00:10,000
+Who are you?
+
+4
+00:00:10,000 --> 00:00:11,000
+Who?
+
+5
+00:00:11,000 --> 00:00:16,000
+I am a celebrity, Oshanti Matsuno
+
+6
+00:00:16,000 --> 00:00:17,000
+Matsuno?
+
+7
+00:00:17,000 --> 00:00:25,000
+So, Oshanti Matsuno has chosen a hat for
+each of you
+
+8
+00:00:25,000 --> 00:00:29,000
+You chose a hat that suits you
+
+9
+00:00:29,000 --> 00:00:35,000
+I chose a hat that suits me
+
+10
+00:00:35,000 --> 00:00:36,000
+It's me
+
+11
+00:00:36,000 --> 00:00:39,000
+You look cute
+
+12
+00:00:39,000 --> 00:00:41,000
+Thank you very much
+
+13
+00:00:41,000 --> 00:00:42,000
+But!
+
+14
+00:00:42,000 --> 00:00:49,000
+These two are not the same as anyone
+else
+
+15
+00:00:49,000 --> 00:00:53,000
+They are fake hats
+
+16
+00:00:53,000 --> 00:00:55,000
+This is Riko
+
+17
+00:00:55,000 --> 00:00:57,000
+This is Riko
+
+18
+00:00:57,000 --> 00:01:00,000
+This is Kaho
+
+19
+00:01:00,000 --> 00:01:03,000
+I think this is Kaho
+
+20
+00:01:03,000 --> 00:01:05,000
+This is the usual one
+
+21
+00:01:05,000 --> 00:01:08,000
+Kaho seems to choose black
+
+22
+00:01:08,000 --> 00:01:12,000
+It's time to decide, what do you think?
+
+23
+00:01:12,000 --> 00:01:15,000
+This is Mirei's and this is Aya's
+
+24
+00:01:15,000 --> 00:01:17,000
+I have both of these
+
+25
+00:01:17,000 --> 00:01:19,000
+Let's choose this one
+
+26
+00:01:19,000 --> 00:01:24,000
+This is the final hat
+
+27
+00:01:24,000 --> 00:01:27,000
+The correct answer is
+
+28
+00:01:27,000 --> 00:01:29,000
+Nakayama
+
+29
+00:01:29,000 --> 00:01:30,000
+Oh
+
+30
+00:01:30,000 --> 00:01:32,000
+Only one?
+
+31
+00:01:32,000 --> 00:01:34,000
+Nakayama is the only one
+
+32
+00:01:34,000 --> 00:01:36,000
+It's not this one?
+
+33
+00:01:36,000 --> 00:01:40,000
+Nakayama, please do a fashion show
+
+34
+00:01:40,000 --> 00:01:42,000
+Where are you going?
+
+35
+00:01:42,000 --> 00:01:52,000
+Wear the costume and come back
+
+36
+00:01:52,000 --> 00:01:54,000
+It's the birth of Tanko Mars!
+
+37
+00:01:54,000 --> 00:01:55,000
+Mmm!
+
+38
+00:01:55,000 --> 00:01:57,000
+Kawaii!
+
+39
+00:02:00,872 --> 00:02:02,872
+Ebichu!
+
+40
+00:02:02,872 --> 00:02:04,872
+The remaining 6 people are
+
+41
+00:02:04,872 --> 00:02:05,872
+again,
+
+42
+00:02:05,872 --> 00:02:07,872
+a different hat!
+
+43
+00:02:08,872 --> 00:02:09,872
+Scary!
+
+44
+00:02:09,872 --> 00:02:10,872
+Hey, Kobayashi-san!
+
+45
+00:02:10,872 --> 00:02:11,872
+Tomo-chan!
+
+46
+00:02:12,872 --> 00:02:13,872
+Shut up, Kanshawa!
+
+47
+00:02:13,872 --> 00:02:14,872
+You're right.
+
+48
+00:02:14,872 --> 00:02:15,872
+Hoshino-san!
+
+49
+00:02:15,872 --> 00:02:17,872
+There's only one person!
+
+50
+00:02:18,872 --> 00:02:20,872
+The best hat for the summer vacation
+
+51
+00:02:20,872 --> 00:02:23,872
+at the Karuizawa villa
+
+52
+00:02:23,872 --> 00:02:26,872
+is the best match for the Ebichu's
+Karuizawa's
+
+53
+00:02:26,872 --> 00:02:28,872
+Mie-rin!
+
+54
+00:02:28,872 --> 00:02:29,872
+How was it?
+
+55
+00:02:29,872 --> 00:02:31,872
+The hat that flew away
+
+56
+00:02:31,872 --> 00:02:33,872
+is Hirona's, too!
+
+57
+00:02:33,872 --> 00:02:35,872
+The prince riding a white horse!
+
+58
+00:02:35,872 --> 00:02:36,872
+What?
+
+59
+00:02:36,872 --> 00:02:37,872
+A fairytale?
+
+60
+00:02:37,872 --> 00:02:38,872
+Yeah!
+
+61
+00:02:38,872 --> 00:02:40,672
+It's a fantasy!
+
+62
+00:02:41,672 --> 00:02:42,672
+That's it?
+
+63
+00:02:42,672 --> 00:02:43,672
+There's only one more time?
+
+64
+00:02:43,672 --> 00:02:45,672
+Please do your best!
+
+65
+00:02:45,672 --> 00:02:47,672
+It's not the last time!
+
+66
+00:02:47,672 --> 00:02:49,672
+It's not the last time!
+
+67
+00:02:49,672 --> 00:02:51,672
+It's not the last time!
+
+68
+00:02:52,224 --> 00:02:53,224
+The correct answer is...
+
+69
+00:02:53,224 --> 00:02:55,224
+Kashiwagi-san!
+
+70
+00:02:56,224 --> 00:02:57,224
+Let's do the final round!
+
+71
+00:02:57,224 --> 00:02:58,224
+Okay!
+
+72
+00:03:00,224 --> 00:03:03,224
+A girl who is as fluffy as a white-
+haired girl
+
+73
+00:03:03,224 --> 00:03:06,224
+This is the girl who came from Chiba
+
+74
+00:03:06,224 --> 00:03:08,224
+and is a girl who doesn't know the
+world!
+
+75
+00:03:08,224 --> 00:03:10,224
+Why did you choose Kaoru Isaka?
+
+76
+00:03:10,224 --> 00:03:13,224
+She is very pure and honest
+
+77
+00:03:13,224 --> 00:03:15,224
+She is a toy box in Ebichu
+
+78
+00:03:15,224 --> 00:03:17,224
+She is a just-watching girl
+
+79
+00:03:17,224 --> 00:03:23,224
+But she is not doing her homework today
+either!
+
+80
+00:03:23,224 --> 00:03:25,224
+She watches a movie related to her fan
+club
+
+81
+00:03:25,224 --> 00:03:28,224
+and says things that she understands
+
+82
+00:03:28,224 --> 00:03:29,224
+The culprit is...
+
+83
+00:03:29,224 --> 00:03:31,224
+Nubai Chimi!
+
+84
+00:03:31,224 --> 00:03:33,224
+She is a fan of her father
+
+85
+00:03:33,224 --> 00:03:36,224
+and her black eye-line is very short
+
+86
+00:03:36,224 --> 00:03:38,224
+She is pretty good!
+
+87
+00:03:38,224 --> 00:03:40,224
+The only cap type is...
+
+88
+00:03:40,224 --> 00:03:43,224
+The one that is on her father's head
+
+89
+00:03:43,224 --> 00:03:45,224
+I'm sorry!
+
+90
+00:03:45,224 --> 00:03:47,224
+How was it?
+
+91
+00:03:47,224 --> 00:03:48,224
+How was the serious wearing of the cap?
+
+92
+00:03:48,224 --> 00:03:51,224
+I'm glad I was able to wear a lot of
+different caps!
+
+93
+00:03:51,224 --> 00:03:52,224
+I'm glad too!
+
+94
+00:03:52,224 --> 00:03:53,224
+I'll try to use it as a reference next
+time!
+
+95
+00:03:53,224 --> 00:03:55,224
+Thank you!
+
+96
+00:03:55,224 --> 00:03:57,224
+Thank you!
+
+97
+00:03:57,224 --> 00:04:00,160
+Thank you!
+
+98
+00:04:01,160 --> 00:04:02,160
+Ebichu!
+
+99
+00:04:05,160 --> 00:04:06,160
+No shu shu shu!
+
+100
+00:04:07,160 --> 00:04:08,160
+Her hair has changed
+
+101
+00:04:09,160 --> 00:04:10,160
+It has changed, Ebichu
+
+102
+00:04:11,160 --> 00:04:12,160
+It suits you
+
+103
+00:04:12,160 --> 00:04:13,160
+It suits you
+
+104
+00:04:14,160 --> 00:04:15,160
+She looks like a Japanese
+
+105
+00:04:15,160 --> 00:04:18,160
+It's a natural thing for a Shariotsu
+Seijin
+
+106
+00:04:18,160 --> 00:04:19,160
+What about you, Ebichu?
+
+107
+00:04:19,160 --> 00:04:24,160
+I don't have much interest in it
+
+108
+00:04:24,666 --> 00:04:26,666
+Good timing
+
+109
+00:04:26,666 --> 00:04:28,666
+I think the front is definitely short
+
+110
+00:04:28,666 --> 00:04:30,666
+This one
+
+111
+00:04:30,666 --> 00:04:32,666
+I think this is Maya's
+
+112
+00:04:32,666 --> 00:04:34,666
+This one
+
+113
+00:04:34,666 --> 00:04:36,666
+But Riko's is my favorite
+
+114
+00:04:36,666 --> 00:04:38,666
+I like this one
+
+115
+00:04:38,666 --> 00:04:40,666
+I think this is Mire's
+
+116
+00:04:40,666 --> 00:04:42,666
+I think this is mine
+
+117
+00:04:42,666 --> 00:04:44,666
+I think this is R-medie's
+
+118
+00:04:44,666 --> 00:04:46,666
+I think this is mine
+
+119
+00:04:46,666 --> 00:04:48,666
+Let's change
+
+120
+00:04:48,666 --> 00:04:50,666
+Let's go with intuition
+
+121
+00:04:50,666 --> 00:04:52,666
+We got changed by everyone
+
+122
+00:04:52,666 --> 00:04:54,666
+I got wrong
+
+123
+00:04:56,666 --> 00:04:58,666
+Did you get it?
+
+124
+00:05:00,666 --> 00:05:04,666
+Mom, my daughter is always taking care
+of me
+
+125
+00:05:04,666 --> 00:05:06,666
+So please take care of my daughter
+
+126
+00:05:06,666 --> 00:05:08,666
+I'm a mother of the family
+
+127
+00:05:08,666 --> 00:05:10,666
+I'm really here
+
+128
+00:05:10,666 --> 00:05:12,666
+I'm here
+
+129
+00:05:12,666 --> 00:05:14,666
+I'm here
+
+130
+00:05:14,666 --> 00:05:16,666
+I'm here
+
+131
+00:05:16,666 --> 00:05:18,666
+Now, the correct answer is
+
+132
+00:05:18,666 --> 00:05:20,666
+Mahiyama
+
+133
+00:05:20,666 --> 00:05:22,666
+Honto-san
+
+134
+00:05:22,666 --> 00:05:24,480
+Correct
+
+135
+00:05:25,480 --> 00:05:27,480
+These four people got it right!
+
+136
+00:05:27,480 --> 00:05:29,480
+Cutie girl outside of court?
+
+137
+00:05:31,480 --> 00:05:35,480
+If the short hair is popular, I'll go
+for the sports hairstyle next!
+
+138
+00:05:36,480 --> 00:05:40,480
+I think I'm pretty good at long hair
+too!
+
+139
+00:05:40,480 --> 00:05:44,480
+The point is the sense of open hair!
+
+140
+00:05:45,480 --> 00:05:50,480
+If you have a handkerchief and a face
+sandwich in one hand, everyone will turn
+around!
+
+141
+00:05:50,480 --> 00:05:55,480
+But if you let go, it's a boom boom
+boom!
+
+142
+00:05:55,480 --> 00:06:00,080
+It's just like my mom!
+
+143
+00:06:01,080 --> 00:06:02,080
+Hello!
+
+144
+00:06:03,080 --> 00:06:06,080
+It was a nice walk for all four of us!
+
+145
+00:06:07,080 --> 00:06:11,080
+The remaining three, let's Katsuura!
+
+146
+00:06:12,080 --> 00:06:13,080
+I'm lost.
+
+147
+00:06:15,080 --> 00:06:17,080
+What is this?
+
+148
+00:06:18,080 --> 00:06:20,080
+The three of us have changed.
+
+149
+00:06:21,080 --> 00:06:24,080
+I'm back to my old self.
+
+150
+00:06:25,080 --> 00:06:26,080
+It suits you.
+
+151
+00:06:26,080 --> 00:06:28,080
+I'm a little curious.
+
+152
+00:06:29,080 --> 00:06:30,080
+Please.
+
+153
+00:06:31,080 --> 00:06:33,080
+I'm a critic.
+
+154
+00:06:34,080 --> 00:06:36,080
+It's a balloon binicle.
+
+155
+00:06:37,080 --> 00:06:38,080
+Why did you choose it?
+
+156
+00:06:39,080 --> 00:06:40,080
+I wanted to go around.
+
+157
+00:06:41,080 --> 00:06:43,080
+The correct answer is...
+
+158
+00:06:44,080 --> 00:06:45,080
+I don't have it!
+
+159
+00:06:46,080 --> 00:06:47,080
+I'm sorry.
+
+160
+00:06:48,080 --> 00:06:50,080
+It was good for Hiena.
+
+161
+00:06:51,080 --> 00:06:54,080
+This is the last change.
+
+162
+00:06:54,080 --> 00:06:55,080
+I'm going to wear it.
+
+163
+00:06:56,080 --> 00:06:57,080
+How old are you?
+
+164
+00:06:58,080 --> 00:06:59,080
+I'm nervous.
+
+165
+00:06:59,080 --> 00:07:03,080
+To be continued.
+
+166
+00:07:04,568 --> 00:07:07,568
+You were a senpai.
+
+167
+00:07:08,568 --> 00:07:10,568
+The winner is...
+
+168
+00:07:11,568 --> 00:07:13,568
+Nakayama-san!
+
+169
+00:07:13,568 --> 00:07:16,048
+I knew it! It's you!
+
+170
+00:07:17,048 --> 00:07:25,048
+Anoritan is a long-haired adult who
+transforms into a real scorpion with a
+great skill!
+
+171
+00:07:26,048 --> 00:07:31,048
+Scorpion Death Rock! Love & Happy!
+
+172
+00:07:32,048 --> 00:07:33,048
+Wow! It suits you!
+
+173
+00:07:34,048 --> 00:07:35,048
+What? What? What? What?
+
+174
+00:07:37,048 --> 00:07:38,048
+It really suits you!
+
+175
+00:07:39,048 --> 00:07:40,048
+It's beautiful!
+
+176
+00:07:41,048 --> 00:07:43,048
+The answer is this!
+
+177
+00:07:43,048 --> 00:07:44,048
+It's cute!
+
+178
+00:07:45,048 --> 00:07:47,048
+How was it?
+
+179
+00:07:48,048 --> 00:07:50,048
+Anyway, Riko-chan looks good in
+anything!
+
+180
+00:07:51,048 --> 00:07:52,048
+That's right!
+
+181
+00:07:52,048 --> 00:07:59,048
+Thank you! Let's all laugh together!
+
