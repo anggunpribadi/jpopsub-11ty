@@ -4,3 +4,9 @@ src/css/style.css
 .env
 *.log
 .DS_Store
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
