@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jpopsub-11ty",
+  "compatibility_date": "2026-07-11",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "_site"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
