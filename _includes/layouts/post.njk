@@ -155,7 +155,7 @@
   </header>
 
   {% if videoID %}
-  <div class="player-wrapper">
+  <div class="player-wrapper mb-6 md:mb-8">
     
     <div id="player" data-plyr-provider="youtube" data-plyr-embed-id="{{ videoID }}"></div>
 
@@ -176,7 +176,7 @@
 <script src="https://cdn.plyr.io/3.8.4/plyr.js" ></script>
 <script>
   // ─── CONFIG ───────────────────────────────────────────────────────────────
-  const SRT_URL = `https://res.cloudinary.com/gahar-co/raw/upload/srt/{{ videoID }}.srt`;
+  const SRT_URL = `https://res.cloudinary.com/gahar-co/raw/upload/subtitles/{{ videoID }}.en.srt`;
   // ──────────────────────────────────────────────────────────────────────────
 
   // Parse SRT text into array of { start, end, text } objects (times in seconds)

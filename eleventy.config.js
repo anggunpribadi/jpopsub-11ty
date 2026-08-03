@@ -3,6 +3,7 @@ import { minify } from "html-minifier-terser";
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/css/style.css": "css/style.css" });
+  eleventyConfig.addPassthroughCopy({ "src/css/pagefind-component-ui.css": "css/pagefind-component-ui.css" });
   eleventyConfig.addPassthroughCopy("src/**/*.js");
   eleventyConfig.addPassthroughCopy("src/subtitles/*.srt");
   eleventyConfig.addWatchTarget("src/css/input.css");

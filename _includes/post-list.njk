@@ -1,7 +1,7 @@
 {# Expects: posts (array). 3 columns on large screens. #}
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
   {% for post in posts %}
-    <article class="rounded-xl border border-gray-200 bg-white overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+    <article class="border border-gray-200 bg-white overflow-hidden shadow-sm hover:shadow-md transition-shadow">
       <a href="{{ post.url }}" class="block">
         {% set vid = post.data.videoID %}
         <div class="aspect-video bg-gray-200 relative">
