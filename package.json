@@ -10,7 +10,9 @@
     "css:build": "tailwindcss -i ./src/css/input.css -o ./src/css/style.css --minify",
     "css:watch": "tailwindcss -i ./src/css/input.css -o ./src/css/style.css --watch",
     "build:all": "npm run css:build && eleventy",
-    "dev:all": "npm run css:build && (npm run css:watch & eleventy --serve)"
+    "dev:all": "npm run css:build && (npm run css:watch & eleventy --serve)",
+    "pagefind": "npx -y pagefind --site _site",
+    "pagefind:deploy": "npx wrangler pages deploy _site/pagefind --project-name=search-jpopsub-com"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
