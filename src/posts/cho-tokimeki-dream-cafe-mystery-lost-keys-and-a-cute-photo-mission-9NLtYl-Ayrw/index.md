@@ -1,3 +1,4 @@
+---
 title: "Cho Tokimeki Dream Cafe Mystery: Lost Keys and a Cute Photo Mission!"
 date: 2026-07-17
 tags:
