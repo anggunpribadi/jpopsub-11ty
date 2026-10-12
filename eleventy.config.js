@@ -1,4 +1,21 @@
 import { minify } from "html-minifier-terser";
+import artistSlugOverrides from "./_data/artist-slugs.js";
+
+const slugify = (value) => String(value).toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+const artistSlugOverrideMap = Object.fromEntries(
+  Object.entries(artistSlugOverrides).map(([name, slug]) => [name.toLowerCase(), slug]),
+);
+
+function artistSlug(value) {
+  if (value && typeof value === "object") {
+    const name = value.name;
+    if (name && artistSlugOverrideMap[String(name).toLowerCase()]) return artistSlugOverrideMap[String(name).toLowerCase()];
+    value = value.slug || name || value;
+  }
+
+  const name = String(value);
+  return artistSlugOverrideMap[name.toLowerCase()] || slugify(name);
+}
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default function (eleventyConfig) {
@@ -54,16 +71,14 @@ export default function (eleventyConfig) {
   // Unique artists (categories) for /artist/[slug] routes; slug is slugified for URL
   eleventyConfig.addCollection("artists", function (api) {
     const posts = api.getFilteredByGlob("src/posts/**/*.md");
-    const slugify = (s) => String(s).toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
     const map = new Map();
     for (const post of posts) {
       const cat = post.data.category;
       if (cat) {
         const categories = Array.isArray(cat) ? cat : [cat];
         for (const c of categories) {
-          const raw = typeof c === "string" ? c : (c.slug || c.name || c);
           const name = typeof c === "object" && c.name ? c.name : c;
-          const slug = slugify(raw);
+          const slug = artistSlug(c);
           if (!map.has(slug)) map.set(slug, { slug, name, count: 0 });
           map.get(slug).count++;
         }
@@ -73,16 +88,14 @@ export default function (eleventyConfig) {
   });
 
   // Filter: get posts by artist slug (slugified)
-  eleventyConfig.addFilter("postsByArtist", function (posts, artistSlug) {
-    const slugify = (s) => String(s).toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
-    const want = slugify(artistSlug);
+  eleventyConfig.addFilter("postsByArtist", function (posts, artistSlugValue) {
+    const want = artistSlug(artistSlugValue);
     return posts.filter((p) => {
       const c = p.data.category;
       if (!c) return false;
       const categories = Array.isArray(c) ? c : [c];
       return categories.some(cat => {
-        const raw = typeof cat === "string" ? cat : (cat.slug || cat.name || cat);
-        return slugify(raw) === want;
+        return artistSlug(cat) === want;
       });
     });
   });
@@ -90,7 +103,6 @@ export default function (eleventyConfig) {
   // Collection: artist pages with pagination (30 posts per page)
   eleventyConfig.addCollection("artistPages", function (api) {
     const posts = api.getFilteredByGlob("src/posts/**/*.md").reverse();
-    const slugify = (s) => String(s).toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
     const map = new Map();
     
     // Build artist map with their posts
@@ -99,9 +111,8 @@ export default function (eleventyConfig) {
       if (cat) {
         const categories = Array.isArray(cat) ? cat : [cat];
         for (const c of categories) {
-          const raw = typeof c === "string" ? c : (c.slug || c.name || c);
           const name = typeof c === "object" && c.name ? c.name : c;
-          const slug = slugify(raw);
+          const slug = artistSlug(c);
           if (!map.has(slug)) map.set(slug, { slug, name, posts: [] });
           map.get(slug).posts.push(post);
         }
@@ -200,6 +211,8 @@ export default function (eleventyConfig) {
       return 0;
     });
   });
+
+  eleventyConfig.addFilter("artistSlug", artistSlug);
 
   eleventyConfig.addFilter("sortBy", function (array, key) {
     if (!Array.isArray(array)) return array;

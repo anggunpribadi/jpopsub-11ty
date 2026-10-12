@@ -143,9 +143,9 @@
         Artist{% if cats.length > 1 %}s{% endif %}:
         {% for cat in cats %}
           {% if cat is string %}
-            <a href="/artist/{{ cat | slugify }}/" class="text-gray-600 hover:text-gray-900">{{ cat }}</a>
+            <a href="/artist/{{ cat | artistSlug }}/" class="text-gray-600 hover:text-gray-900">{{ cat }}</a>
           {% else %}
-            <a href="/artist/{{ (cat.slug or cat.name or cat) | slugify }}/" class="text-gray-600 hover:text-gray-900">{{ cat.name or cat }}</a>
+            <a href="/artist/{{ cat | artistSlug }}/" class="text-gray-600 hover:text-gray-900">{{ cat.name or cat }}</a>
           {% endif %}
           {% if not loop.last %}, {% endif %}
         {% endfor %}

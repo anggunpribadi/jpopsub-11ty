@@ -21,8 +21,16 @@
       <a href="/" class="font-semibold text-2xl text-gray-900 hover:text-gray-700 tracking-tight">{{ site.logoTitle or "jpopsub" }}</a>
     </div>
     <div class="flex-1 flex items-center justify-start gap-3 md:gap-4">
+      <nav class="hidden md:flex items-center gap-2 md:gap-3 px-4 md:px-6 py-3 md:py-2">
+        <a href="/tag" class="p-2 rounded-lg text-gray-600 hover:bg-gray-100 hover:text-gray-900" aria-label="X (Twitter)">
+          Tags
+        </a>
+        <a href="/artist" class="p-2 rounded-lg text-gray-600 hover:bg-gray-100 hover:text-gray-900">
+          Artists
+        </a>
+      </nav>
       {# Search: visible on desktop, toggle on mobile #}
-      <div id="search-wrap" class="md:block flex-1 items-center border-gray-200 px-4 md:px-6 [--pf-font:inherit]">
+      <div id="search-wrap" class="md:block flex-1 items-center border-gray-200 [--pf-font:inherit]">
         <pagefind-modal-trigger class="mt-2 [--pf-border:transparent] [--pf-border-width:0px] [--pf-shadow:none]"></pagefind-modal-trigger>
         <pagefind-config
           bundle-path="https://search.jpopsub.com/"

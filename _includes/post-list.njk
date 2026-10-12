@@ -1,7 +1,7 @@
 {# Expects: posts (array). 3 columns on large screens. #}
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
   {% for post in posts %}
-    <article class="border border-gray-200 bg-white overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+    <article class=" bg-slate-50 overflow-hidden">
       <a href="{{ post.url }}" class="block">
         {% set vid = post.data.videoID %}
         <div class="aspect-video bg-gray-200 relative">
@@ -18,7 +18,7 @@
           <div class="w-full h-full flex items-center justify-center text-gray-400 text-sm">No thumbnail</div>
           {% endif %}
         </div>
-        <div class="p-4">
+        <div class="py-4">
           <h2 class="font-semibold text-gray-900 line-clamp-2 mb-1">{{ post.data.title }}</h2>
           <time datetime="{{ post.date | htmlDateString }}" class="text-sm text-gray-500">{{ post.date | formatDate }}</time>
           {% if post.data.tags and post.data.tags.length %}
@@ -38,9 +38,9 @@
             <span class="font-medium text-gray-600">Artist{% if cats.length > 1 %}s{% endif %}:</span>
             {% for c in cats %}
               {% if c is string %}
-                <a href="/artist/{{ c | slugify }}/" class="hover:underline">{{ c }}</a>
+                <a href="/artist/{{ c | artistSlug }}/" class="hover:underline">{{ c }}</a>
               {% else %}
-                <a href="/artist/{{ (c.slug or c.name or c) | slugify }}/" class="hover:underline">{{ c.name or c }}</a>
+                <a href="/artist/{{ c | artistSlug }}/" class="hover:underline">{{ c.name or c }}</a>
               {% endif %}
               {% if not loop.last %}, {% endif %}
             {% endfor %}
